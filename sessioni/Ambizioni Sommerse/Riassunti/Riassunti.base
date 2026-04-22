@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == "sessioni/Ambizioni Sommerse/Riassunti"
+    - Campagna == ["Ambizioni Sommerse"]
+views:
+  - type: table
+    name: Tutto
+    order:
+      - Atto
+      - file.name
+      - Livello
+      - Data
+  - type: table
+    name: Atto 1 - Le Voci del Profondo
+    filters:
+      and:
+        - Atto == ["Le Voci del Profondo"]

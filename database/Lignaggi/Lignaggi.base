@@ -1,0 +1,17 @@
+filters:
+  and:
+    - note["base"] == link("Lignaggi.base")
+properties:
+  file.name:
+    displayName: Nome
+  Gruppo:
+    displayName: Gruppo
+  Rarità:
+    displayName: Rarità
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Gruppo
+      - Rarità

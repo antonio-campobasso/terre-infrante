@@ -1,0 +1,20 @@
+filters:
+  and:
+    - note["base"] == link("Razze.base")
+properties:
+  file.name:
+    displayName: Nome
+  Lingue:
+    displayName: Lingue
+  Gruppo:
+    displayName: Gruppo
+  Rarità:
+    displayName: Rarità
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Lingue
+      - Gruppo
+      - Rarità

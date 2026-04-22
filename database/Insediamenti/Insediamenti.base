@@ -1,0 +1,28 @@
+filters:
+  and:
+    - note["base"] == link("Insediamenti.base")
+properties:
+  file.name:
+    displayName: Name
+  Regione:
+    displayName: Regione
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Regione
+  - type: table
+    name: Couronne
+    filters:
+      and:
+        - Regione.contains("Couronne")
+    order:
+      - file.name
+  - type: table
+    name: Hale'kai
+    filters:
+      and:
+        - Regione.contains("Hale'kai")
+  - type: table
+    name: View

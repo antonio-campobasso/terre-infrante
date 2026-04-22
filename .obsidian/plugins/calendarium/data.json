@@ -1,0 +1,466 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Terre Infrante",
+      "description": null,
+      "id": "ID_2a0978c9b9f9",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Lunaem",
+            "id": "ID_dac92878a9da",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Martor",
+            "id": "ID_eba91ad8a8e9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Mecrath",
+            "id": "ID_99391908c81a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Jofur",
+            "id": "ID_bb9bba18790b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Vanir",
+            "id": "ID_7bc98aaa79e8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Seturn",
+            "id": "ID_4b8aa8cbc928",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Ilios",
+            "id": "ID_798a9b799b3a",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Primula",
+            "type": "month",
+            "length": 36,
+            "id": "ID_d91939486a9b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Rodendron",
+            "type": "month",
+            "length": 37,
+            "id": "ID_ea0a5a090819",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Helianthus",
+            "type": "month",
+            "length": 36,
+            "id": "ID_0a5b3aea1a3a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lobelia",
+            "type": "month",
+            "length": 37,
+            "id": "ID_f96968980958",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Tropaleum",
+            "type": "month",
+            "length": 36,
+            "id": "ID_09cba9b9e99b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Aster",
+            "type": "month",
+            "length": 36,
+            "id": "ID_49fb2b4b28eb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Mirabilis",
+            "type": "month",
+            "length": 37,
+            "id": "ID_989ba8fb2a59",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Ilex",
+            "type": "month",
+            "length": 36,
+            "id": "ID_79b8fa79b989",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Galanthus",
+            "type": "month",
+            "length": 37,
+            "id": "ID_3bb9b9eb4b0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Calycantum",
+            "type": "month",
+            "length": 36,
+            "id": "ID_788a39682868",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Candra",
+            "cycle": 91,
+            "offset": 8,
+            "faceColor": "#ff8e8e",
+            "shadowColor": "#000000",
+            "id": "ID_dad96b980a8a"
+          },
+          {
+            "name": "Selene",
+            "cycle": 36.4,
+            "offset": 0,
+            "faceColor": "#67bafd",
+            "shadowColor": "#000000",
+            "id": "ID_cb89eaba0b5a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_086a5ad8da89",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Era degli Antichi",
+            "description": "",
+            "format": "Anno {{era_year}} - {{era_name}}",
+            "date": {
+              "year": 749,
+              "month": 1,
+              "day": 12
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_7a39dbfa28eb",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Era delle Leggende",
+            "description": "",
+            "format": "Anno {{era_year}} ({{year}}) - {{era_name}}",
+            "date": {
+              "year": 6000,
+              "month": 5,
+              "day": 7
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_3a799aca98ba",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Era dell'Eclissi",
+            "description": "",
+            "format": "Anno {{era_year}} ({{year}}) - {{era_name}}",
+            "date": {
+              "year": 8190,
+              "month": 2,
+              "day": 4
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_5a984a996aa9",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Nuova Era",
+            "description": "",
+            "format": "Anno {{year}} ({{era_year}}) - {{era_name}}",
+            "date": {
+              "year": 9252,
+              "month": 8,
+              "day": 28
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_99bada7beb49",
+            "name": "Blomsol",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 91,
+            "peak": 0,
+            "color": "#62ce51",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_bb5808d9c898",
+            "name": "Jarnlogi",
+            "type": "Periodic",
+            "kind": "Summer",
+            "duration": 91,
+            "peak": 0,
+            "color": "#78dcb6",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_b84b080b29fb",
+            "name": "Hjartalefi",
+            "type": "Periodic",
+            "kind": "Autumn",
+            "duration": 91,
+            "peak": 0,
+            "color": "#a02c8a",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_695baa9b3929",
+            "name": "Vartvindur",
+            "type": "Periodic",
+            "kind": "Winter",
+            "duration": 91,
+            "peak": 0,
+            "color": "#2c9e3d",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "year": 10000,
+        "month": 1,
+        "day": 12
+      },
+      "events": [
+        {
+          "name": "Blomsol",
+          "description": "",
+          "id": "2831523",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Jarnlogi",
+          "description": "",
+          "id": "2831524",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Hjartalefi",
+          "description": "",
+          "id": "2831525",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Vartvindur",
+          "description": "",
+          "id": "2831526",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "<p>At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.</p>",
+          "id": "3823087",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.</p>",
+          "id": "3823088",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "<p>The spring equinox is when the day and the night are equally as long, and are getting longer.</p>",
+          "id": "3823089",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "<p>The autumn equinox is when the day and the night are equally as long, and are getting shorter.</p>",
+          "id": "3823090",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_2a0978c9b9f9",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

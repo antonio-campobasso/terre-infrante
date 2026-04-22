@@ -1,0 +1,38 @@
+filters:
+  and:
+    - note["base"] == link("Divinità.base")
+properties:
+  file.name:
+    displayName: Nome
+  Fonte Divina:
+    displayName: Fonte Divina
+  Arma prediletta:
+    displayName: Arma prediletta
+  Pantheon:
+    displayName: Pantheon
+  Santificazione:
+    displayName: Santificazione
+  Titolo:
+    displayName: Titolo
+  Abilità Divina:
+    displayName: Abilità Divina
+  Attributo Divino:
+    displayName: Attributo Divino
+  Domini alternativi:
+    displayName: Domini alternativi
+  Domini:
+    displayName: Domini
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Fonte Divina
+      - Arma prediletta
+      - Pantheon
+      - Santificazione
+      - Titolo
+      - Abilità Divina
+      - Attributo Divino
+      - Domini alternativi
+      - Domini
