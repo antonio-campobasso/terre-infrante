@@ -22,4 +22,4 @@
 # Storia
 
 # Aggiunte
-[[“Maestro”]]
+[[Maestro]]
