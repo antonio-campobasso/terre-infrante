@@ -1,16 +1,16 @@
 # 🎲 Generatore Background: [Nome Continente/Regione]
 
 ## 1️⃣ Provenienza
-| Tiro (1d8) | Esito | Descrizione Breve |
-| :--- | :--- | :--- |
-| 1 | **Straniero** | Proviene da un altro continente o oltre le Terre Infrante. |
-| 2 | **Regione A** | [Inserire nome regione, es: Andorin] |
-| 3 | **Regione A** | [Inserire nome regione] |
-| 4 | **Regione B** | [Inserire nome regione, es: Rylorwyn] |
-| 5 | **Regione B** | [Inserire nome regione] |
-| 6 | **Regione C** | [Inserire nome regione, es: Jörinveit] |
-| 7 | **Regione C** | [Inserire nome regione] |
-| 8 | **Scelta Libera** | Scegli liberamente la tua origine. |
+| Tiro (1d8) | Esito             | Descrizione Breve                                          |
+| :--------- | :---------------- | :--------------------------------------------------------- |
+| 1          | **Straniero**     | Proviene da un altro continente o oltre le Terre Infrante. |
+| 2          | **Regione A**     | [Inserire nome regione, es: Andorin]                       |
+| 3          | **Regione A**     | [Inserire nome regione]                                    |
+| 4          | **Regione B**     | [Inserire nome regione, es: Rylorwyn]                      |
+| 5          | **Regione B**     | [Inserire nome regione]                                    |
+| 6          | **Regione C**     | [Inserire nome regione, es: Jörinveit]                     |
+| 7          | **Regione C**     | [Inserire nome regione]                                    |
+| 8          | **Scelta Libera** | Scegli liberamente la tua origine.                         |
 
 ---
 

@@ -9,4 +9,8 @@ Caratteristiche:
   - Dragonblood
   - Exemplar
 ---
-#TODO aggiungere immagine anche drago
+![[Thon.png]]
+
+![[Dragantonio.png]]
+
+![[Avvoltonio.png]]

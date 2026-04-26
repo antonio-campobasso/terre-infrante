@@ -23,5 +23,5 @@ Nonostante la sua adozione su larga scala, molte razze mantennero le proprie lin
 - [[Mashawa]]
 - [[Astrilya]]
 - [[Valendiano]]
-- [[Kawano'i]]
+- [[Kawano'i-le]]
 - [[Comune Antico]]

@@ -1,0 +1,29 @@
+filters:
+  and:
+    - note["base"] == link("Calcolatore.base")
+properties:
+  file.name:
+    displayName: Name
+  Creatura Siderale:
+    displayName: Creatura Siderale
+  Calendario degli Astri:
+    displayName: Calendario degli Astri
+  Calendario delle Sorelle:
+    displayName: Calendario delle Sorelle
+  Data:
+    displayName: Data
+  Età:
+    displayName: Età
+  Anno:
+    displayName: Anno
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Creatura Siderale
+      - Calendario degli Astri
+      - Calendario delle Sorelle
+      - Data
+      - Età
+      - Anno

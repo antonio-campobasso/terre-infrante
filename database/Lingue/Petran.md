@@ -1,6 +1,6 @@
 ---
 Famiglia: Elementale
-Alfabeto: sconosciuto
+Alfabeto: Petran
 Rarità: Rarissima
 Continente:
   - Eloran

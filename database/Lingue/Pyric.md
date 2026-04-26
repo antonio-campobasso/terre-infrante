@@ -1,8 +1,12 @@
 ---
 Famiglia: Elementale
-Alfabeto: sconosciuto
+Alfabeto: Pyric
 Rarità: Rarissima
-Continente: tutti
+Continente:
+  - Eloran
+  - Zethana
+  - Wu-Xian
+  - Liria
 base: "[[Lingue.base]]"
 ---
 Il Pyric è la lingua degli elementali di fuoco. È tutto quello che il [[Petran]] non è: rapido, imprevedibile, con frasi che si accendono e si consumano prima che l'interlocutore abbia finito di capirle. La fonologia è fatta di suoni secchi e crepitanti, scatti consonantici e vocali brevi che non si prolungano mai — come se la lingua stessa rifiutasse di restare ferma. Parlare Pyric è fisicamente faticoso per chi non è elementale: la velocità richiesta e la precisione dei suoni mettono a dura prova la voce.

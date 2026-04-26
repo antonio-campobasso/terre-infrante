@@ -1,8 +1,12 @@
 ---
 Famiglia: Elementale
-Alfabeto: sconosciuto
+Alfabeto: Sussurran
 Rarità: Rarissima
-Continente: tutti
+Continente:
+  - Eloran
+  - Zethana
+  - Wu-Xian
+  - Liria
 base: "[[Lingue.base]]"
 ---
 Il Sussuran è la lingua degli elementali d'aria, e descriverla è come descrivere il vento — chiunque lo abbia sentito sa di cosa si tratta, ma nessuno riesce a fermarlo abbastanza a lungo da analizzarlo. È una lingua fatta di soffi, pressioni variabili, correnti che cambiano direzione a metà frase. I suoni esistono nella differenza tra un'aria e l'altra, non nelle parole singole. Togliere il Sussuran dal suo contesto — una collina ventosa, una vetta, un corridoio dove l'aria si muove — significa perdere buona parte del significato.

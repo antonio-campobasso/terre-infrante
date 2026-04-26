@@ -1,8 +1,12 @@
 ---
 Famiglia: Arcana
-Alfabeto: sconosciuto
+Alfabeto: Necril
 Rarità: Rarissima
-Continente: tutti
+Continente:
+  - Eloran
+  - Zethana
+  - Wu-Xian
+  - Liria
 base: "[[Lingue.base]]"
 ---
 Il Necril è la lingua dei non-morti. Non si sa con certezza se sia una lingua vera e propria o qualcosa di diverso — un'eredità imposta dalla morte, un riflesso del piano in cui le anime sostano prima di dissolversi, o il residuo di qualcosa che esisteva prima che la vita e la morte fossero categorie distinte. Nessuno l'ha mai insegnata a nessuno. Chi risorge come non-morto la capisce, a volte la parla, senza averla mai studiata.

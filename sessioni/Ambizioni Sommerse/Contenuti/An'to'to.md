@@ -8,4 +8,10 @@ Caratteristiche:
   - Human
   - Animist
 ---
-#TODO aggiungere immagine anche drago
+![[An'to'to.png]]
+
+![[Antostrello.png]]
+
+![[Antostrello-Incubo.png]]
+
+![[Antostrello-Gemma.png]]

@@ -1,0 +1,1 @@
+Una ferita aperta nella carne di Argon, residuo della guerra contro Astaroth dove il flusso è spezzato.

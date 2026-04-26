@@ -1,0 +1,22 @@
+filters:
+  and:
+    - note["base"] == link("Creature Siderali.base")
+properties:
+  file.name:
+    displayName: Name
+  A:
+    displayName: A
+  Da:
+    displayName: Da
+  Parole chiave:
+    displayName: Parole chiave
+views:
+  - type: cards
+    name: Table View
+    order:
+      - file.name
+      - Da
+      - A
+    image: note.Immagine
+    cardSize: 170
+    imageAspectRatio: 1

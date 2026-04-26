@@ -1,0 +1,1 @@
+**Sepulcra**Un piano magnetico dove arrivano i defunti. Le anime attraversano un **campo infinito di crisantemi** e vengono attirate dal Paradiso o dall'Inferno in base alla loro polarità

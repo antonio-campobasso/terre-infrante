@@ -1,0 +1,1 @@
+Un frammento di Argon reciso con violenza da Oberron. È una ferita del mondo, una terra isolata e morente.

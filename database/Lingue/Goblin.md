@@ -1,6 +1,6 @@
 ---
 Famiglia: Raziale
-Alfabeto: Sconosciuto
+Alfabeto: Ur-Grak
 Rarità: Non comune
 Continente:
   - Eloran

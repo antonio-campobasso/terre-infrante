@@ -30,6 +30,8 @@ Eppure, tra bicchieri di rum speziato e contratti firmati col sangue, Reda gover
 
 ## Qaz al-Naz, il palazzo dello sguardo
 
+![[Qaz al-Naz.png]]
+
 ### **Esterni**
 
 Nel cuore del **Porto del Dado**, dove il peccato è moneta e il sangue un contratto, si erge l’edificio più temuto e desiderato dell’isola: ***Qaz al-Naz***, il Palazzo dello Sguardo.

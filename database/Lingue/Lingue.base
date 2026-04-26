@@ -30,3 +30,7 @@ views:
     sort:
       - property: base
         direction: ASC
+  - type: cards
+    name: View
+    cardSize: 100
+    imageAspectRatio: 1

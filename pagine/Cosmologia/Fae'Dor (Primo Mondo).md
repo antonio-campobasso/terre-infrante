@@ -1,0 +1,1 @@
+Un tempo parte di Argon, separato volontariamente dalle Fate per preservare la natura incontaminata dai conflitti divini.

@@ -1,6 +1,6 @@
 ---
 Famiglia: Comune
-Alfabeto: sconosciuto
+Alfabeto: Adinkra (simboli)
 Rarità: Rara
 Continente: Zethana
 base: "[[Lingue.base]]"

@@ -18,7 +18,7 @@ Temi:
   - Narrazione
   - Sociale
 ---
-![[Ambizioni Sommerse.jpg]]
+![[Liria.jpg]]
 
 Un vento di promesse e sospetti soffia da [[Couronne]], dove il potere e la ricchezza si intrecciano in una danza pericolosa. La Marina, colonna portante del dominio della Corona, ha lanciato un appello che risuona in ogni porto e taverna dei mari di [[Liria]]: cercano avventurieri di ogni sorta, dai più abili combattenti ai più eruditi maghi, dai carpentieri esperti agli artisti virtuosi.
 
@@ -31,5 +31,5 @@ La curiosità è un richiamo irresistibile, una sirena che spinge le navi a salp
 Voi, avventurieri, siete stati attratti da questo richiamo, spinti dalla sete di avventura, dalla promessa di ricchezza o forse da un oscuro presentimento.
 
 ## Atto 1: Le Voci del Profondo
-#TODO qui premessa
+#TODO qui incipit del primo atto, la marina, il culto e reda? azarketi che va dai pirati
 

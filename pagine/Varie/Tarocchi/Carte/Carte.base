@@ -1,0 +1,23 @@
+filters:
+  and:
+    - note["base"] == link("Carte.base")
+properties:
+  file.name:
+    displayName: Nome
+  Verdetto:
+    displayName: Verdetto
+  Ordine:
+    displayName: Ordine
+  Dado:
+    displayName: Dado
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Verdetto
+      - Ordine
+      - Dado
+    sort:
+      - property: Ordine
+        direction: ASC

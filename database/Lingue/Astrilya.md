@@ -1,6 +1,6 @@
 ---
 Famiglia: Comune
-Alfabeto: Arcano
+Alfabeto: Draconico
 Rarità: Rara
 Continente:
   - Eloran

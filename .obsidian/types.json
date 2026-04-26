@@ -54,6 +54,7 @@
     "Property": "text",
     "Presenza": "multitext",
     "Fazione": "text",
-    "Posizione": "text"
+    "Posizione": "text",
+    "fc-date": "text"
   }
 }

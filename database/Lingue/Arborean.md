@@ -1,6 +1,6 @@
 ---
 Famiglia: Elementale
-Alfabeto: Sconosciuto
+Alfabeto: Arborean
 Rarità: Rarissima
 Continente:
   - Eloran

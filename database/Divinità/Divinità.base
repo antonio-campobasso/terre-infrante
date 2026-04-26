@@ -36,3 +36,8 @@ views:
       - Attributo Divino
       - Domini alternativi
       - Domini
+  - type: table
+    name: Gli Ascesi
+    filters:
+      and:
+        - Pantheon == "Ascesi"

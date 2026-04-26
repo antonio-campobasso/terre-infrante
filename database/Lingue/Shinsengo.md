@@ -1,6 +1,6 @@
 ---
 Famiglia: Comune
-Alfabeto: Ideografico
+Alfabeto: Siddham (Ideografico)
 Rarità: Rara
 Continente: Wu-Xian
 base: "[[Lingue.base]]"

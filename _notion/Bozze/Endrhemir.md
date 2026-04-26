@@ -13,3 +13,7 @@ i draghi e le fate sono dalla parte del sole
 LVI ritorna
 Prigioniero evade (Asmodeus)
 Drago torna a volare, ali meccaniche
+
+
+-- qualcosa sul re delle streghe
+oppure il sole che si reincarna però all'inferno e l'imperatore (erede di astaroth) deve fermarlo

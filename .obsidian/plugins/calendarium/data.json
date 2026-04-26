@@ -427,7 +427,23 @@
           }
         }
       ],
-      "categories": [],
+      "categories": [
+        {
+          "id": "ID_498ac9fba9da",
+          "color": "#91fbff",
+          "name": "Equinozi e Solstizi"
+        },
+        {
+          "id": "ID_8b5ab8fa58da",
+          "color": "#c7ecfc",
+          "name": "Festività"
+        },
+        {
+          "id": "ID_98c92b7a6ad9",
+          "color": "#ffd7c6",
+          "name": "Sessioni"
+        }
+      ],
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events"

@@ -1,6 +1,6 @@
 ---
 Famiglia: Elementale
-Alfabeto: sconosciuto
+Alfabeto: Talican
 Rarità: Rarissima
 Continente:
   - Eloran

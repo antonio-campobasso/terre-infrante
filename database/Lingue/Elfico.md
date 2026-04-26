@@ -1,6 +1,6 @@
 ---
 Famiglia: Elfico
-Alfabeto: elfico
+Alfabeto: Elfico
 Rarità: non comune
 Continente:
   - Eloran

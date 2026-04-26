@@ -8,4 +8,6 @@ Caratteristiche:
   - Tengu
   - Rogue
 ---
-#TODO aggiungere immagine anche drago
+![[Rocchio.png]]
+
+![[Pussyntonio.png]]

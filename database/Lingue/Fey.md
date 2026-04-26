@@ -2,7 +2,11 @@
 Famiglia: Raziale
 Alfabeto: Elfico antico
 Rarità: Rarissima
-Continente: Tutti
+Continente:
+  - Eloran
+  - Zethana
+  - Wu-Xian
+  - Liria
 base: "[[Lingue.base]]"
 ---
 Il Fey è la lingua delle fate, una delle più antiche esistenti — alcune tradizioni sostengono che sia la prima lingua mai parlata, nata insieme al Piano Fatato prima che esistesse qualsiasi altra forma di comunicazione. È una lingua di una complessità difficile da descrivere: la sua grammatica non è semplicemente complessa, è strutturalmente diversa da tutte le altre lingue conosciute, con costruzioni temporali che non distinguono passato e futuro allo stesso modo e un sistema di implicature che veicola significati attraverso ciò che non viene detto tanto quanto attraverso ciò che viene detto.

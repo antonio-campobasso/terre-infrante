@@ -1,8 +1,12 @@
 ---
 Famiglia: Raziale
-Alfabeto: sconosciuto
+Alfabeto: Sakvroth
 Rarità: Rara
-Continente: tutti (sotterraneo)
+Continente:
+  - Eloran
+  - Zethana
+  - Wu-Xian
+  - Liria
 base: "[[Lingue.base]]"
 ---
 Il Sakvroth è la lingua delle creature che abitano il sottosuolo profondo — i tunnel sotto le montagne, le caverne senza luce, le reti di passaggi che attraversano le fondamenta delle Terre Infrante. Non appartiene a una singola razza: si è sviluppato come lingua di contatto tra specie diverse che condividono gli stessi ambienti, e la sua struttura porta i segni di questa origine mista.

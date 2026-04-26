@@ -8,3 +8,4 @@ Caratteristiche:
   - Automaton
   - Gunslinger
 ---
+![[Sparky.png]]

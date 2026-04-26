@@ -8,4 +8,8 @@ Caratteristiche:
   - Halfling
   - Bard
 ---
-#TODO aggiungere immagine anche drago
+![[Billie Bardo.png]]
+
+![[Pulcintonio.png]]
+
+![[Antorvo.png]]
