@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessioni/Ambizioni Sommerse/Appunti.md",
+                "file": "sessioni/Ambizioni Sommerse/Contenuti/An'to'to.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appunti"
+              "title": "An'to'to"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "21. Caos nel covo pirata - Guida Master"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,17 +241,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2250f0639e98792d",
+  "active": "c6d6dd9f3e29c040",
   "lastOpenFiles": [
-    "sessioni/Ambizioni Sommerse/Sessioni/21. Caos nel covo pirata - Guida Master.md",
+    "sessioni/Ambizioni Sommerse/Contenuti/An'to'to.md",
+    "sessioni/Ambizioni Sommerse/Contenuti/Contenuti.base",
+    "sessioni/Ambizioni Sommerse/Riassunti/Riassunti.base",
     "sessioni/Ambizioni Sommerse/Appunti.md",
+    "sessioni/Ambizioni Sommerse/Sessioni/21. Caos nel covo pirata - Guida Master.md",
     "sessioni/Ambizioni Sommerse/Riassunti/20. Calma prima della tempesta.md",
     "sessioni/Ambizioni Sommerse/Riassunti/21. Caos nel covo pirata.md",
     "sessioni/Ambizioni Sommerse/Riassunti/19. La fiducia si guadagna.md",
     "sessioni/Ambizioni Sommerse/Riassunti/18. Legami fragili.md",
     "sessioni/Ambizioni Sommerse/Note.md",
     "sessioni/Ambizioni Sommerse/Riassunti/17. Cambia il vento.md",
-    "sessioni/Ambizioni Sommerse/Riassunti/Riassunti.base",
     "pagine/pagine.md",
     "pagine/Calendari.md",
     "database/Lingue/Arborean.md",
@@ -273,11 +276,9 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "sessioni/Ambizioni Sommerse/Sessioni",
-    "_notion/Sessioni/I Tomi dell’Assoluto",
     "_allegati/Hono.jpg",
     "_allegati/Terre Infrante.jpeg",
     "_allegati/image-1743145007891.jpg3663251302297126268.jpg",
