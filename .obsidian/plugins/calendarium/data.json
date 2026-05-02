@@ -1,5 +1,5 @@
 {
-  "autoParse": false,
+  "autoParse": true,
   "calendars": [
     {
       "name": "Terre Infrante",
