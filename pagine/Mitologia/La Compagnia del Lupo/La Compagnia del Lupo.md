@@ -1,6 +1,3 @@
----
-
----
 ![[La Compagnia del Lupo.png]]
 
 Nata dal fango della strada e consacrata nel fuoco della leggenda, la **Compagnia del Lupo** rappresenta l’improbabile trionfo della volontà sul destino. Ciò che era iniziato come un sodalizio forzato tra reietti — un nobile nano in fuga dalle sue responsabilità, un elfo druido intollerante, un’emarginata segnata dal sangue draconico, un mago arrogante, un chierico accecato dalla vendetta e un lupo bizzarramente distratto — si è evoluto in un legame più profondo di qualunque consanguineità. Attraverso il superamento di pregiudizi interni e corruzioni esterne, il gruppo ha trasformato le proprie cicatrici in simboli di potere: laddove il mondo vedeva un fallimento, loro hanno trovato una famiglia.
@@ -132,6 +129,5 @@ Scoprì di essere l'ultimo erede di una dinastia che un tempo governava quelle t
 
 Dopo la sconfitta del Lich, Stjoc non ha ripreso la vita errante. Ha accettato il suo destino di **Principe e Sovrano**, guidando la ricostruzione del suo regno dalle fondamenta. Ha trasformato le rovine della sua antica chiesa nel centro di una nuova capitale, dove la fede e la giustizia camminano di pari passo.
 Oggi è una guida amata dal suo popolo, un re che non ha dimenticato cosa significhi essere un orfano affamato. La sua mazza non viene quasi più usata per la guerra, ma resta esposta come monito: la luce del sole può bruciare i malvagi, ma il suo compito principale è far fiorire la vita. Spesso lo si vede guardare l'orizzonte, aspettando il momento in cui uno dei suoi vecchi compagni di viaggio varcherà i cancelli della città per un'ultima, leggendaria rimpatriata.
+
 [[pagine/Mitologia/La Compagnia del Lupo/Storia|Storia]]
-=======
-[[_notion/La Compagnia del Lupo/storia]]

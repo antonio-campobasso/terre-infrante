@@ -24,7 +24,7 @@ Un vento di promesse e sospetti soffia da [[Couronne]], dove il potere e la ricc
 
 La promessa è allettante: oro a fiumi, fama imperitura e la possibilità di servire la Corona. Ma dietro questa facciata di generosità, si celano ombre e dubbi. I marinai più scafati, quelli che hanno solcato ogni onda e conosciuto ogni segreto del mare, mormorano di trame oscure e piani nascosti.
 
-Che cosa sta tramando la Corona? Una guerra imminente contro i [[pirati]] che infestano le isole del sud? Un'operazione segreta per rafforzare la Marina e consolidare il suo potere? O forse, una mossa ancora più subdola, un inganno per attirare ignari avventurieri in una trappola mortale?
+Che cosa sta tramando la Corona? Una guerra imminente contro i [[database/Fazioni/Pirati]] che infestano le isole del sud? Un'operazione segreta per rafforzare la Marina e consolidare il suo potere? O forse, una mossa ancora più subdola, un inganno per attirare ignari avventurieri in una trappola mortale?
 
 La curiosità è un richiamo irresistibile, una sirena che spinge le navi a salpare verso [[Couronne]]. Ogni porto è un crocevia di voci e congetture, ogni taverna un covo di segreti e sospetti. Il mare stesso sembra agitato da questa tensione, con correnti che cambiano improvvisamente e venti che soffiano con una furia inusuale.
 
