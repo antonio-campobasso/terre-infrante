@@ -9,3 +9,7 @@ Caratteristiche:
   - Gunslinger
 ---
 ![[Sparky.png]]
+
+![[Sparky originale.png]]
+
+![[Jack Phineas.png]]

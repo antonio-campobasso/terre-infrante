@@ -1,6 +1,3 @@
----
-
----
 ![[La Compagnia del Lupo.png]]
 
 Nata dal fango della strada e consacrata nel fuoco della leggenda, la **Compagnia del Lupo** rappresenta l’improbabile trionfo della volontà sul destino. Ciò che era iniziato come un sodalizio forzato tra reietti — un nobile nano in fuga dalle sue responsabilità, un elfo druido intollerante, un’emarginata segnata dal sangue draconico, un mago arrogante, un chierico accecato dalla vendetta e un lupo bizzarramente distratto — si è evoluto in un legame più profondo di qualunque consanguineità. Attraverso il superamento di pregiudizi interni e corruzioni esterne, il gruppo ha trasformato le proprie cicatrici in simboli di potere: laddove il mondo vedeva un fallimento, loro hanno trovato una famiglia.

@@ -14,7 +14,7 @@ pandemonium (inferno)
 [[religioni diffuse]]
 [[Impero]]
 [[culti e filosofie]]
-[[Storia]]
+[[_notion/Bozze/Storia]]
 
 [[canzone]]
 [[sea shanty]]
