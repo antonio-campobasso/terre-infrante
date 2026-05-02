@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "sessioni/Ambizioni Sommerse/Contenuti/Equipaggio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "9df49d89e923207c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notion/La Compagnia del Lupo/La Compagnia del Lupo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La Compagnia del Lupo"
+              "title": "Equipaggio"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,13 +241,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cd8d12f551213672",
+  "active": "b810043cfec030ea",
   "lastOpenFiles": [
-    "_allegati/Gemini_Generated_Image_d5x6zfd5x6zfd5x6_(1).png",
-    "test sync.md",
     "TODO.md",
-    "pagine/Mitologia/La Compagnia del Lupo/La Compagnia del Lupo.md",
+    "_allegati/Finnian O'Malley.jpeg",
+    "_allegati/Etia e Ruta.png",
+    "_allegati/Avvoltonio 1.png",
     "_notion/La Compagnia del Lupo/La Compagnia del Lupo.md",
+    "test sync.md",
+    "_allegati/Gemini_Generated_Image_d5x6zfd5x6zfd5x6_(1).png",
+    "pagine/Mitologia/La Compagnia del Lupo/La Compagnia del Lupo.md",
     "_notion/La Compagnia del Lupo/storia.md",
     "pagine/Mitologia/La Compagnia del Lupo/Storia.md",
     "_allegati/La Compagnia del Lupo.png",
@@ -289,10 +278,6 @@
     "_allegati/Statua SerGianni.png",
     "_allegati/Ssix.jpeg",
     "_allegati/Sparky originale.png",
-    "_allegati/Sogno del Pescatore.jpg",
-    "_allegati/SerGianni.png",
-    "_allegati/Sahira.jpeg",
-    "_allegati/Pussyntonio 1.png",
     "pagine/Terre Infrante/Liria/Couronne.md",
     "sessioni/sessioni.md",
     "sessioni/Ambizioni Sommerse/Contenuti/Contenuti.base",
