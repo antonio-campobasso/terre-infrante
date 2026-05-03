@@ -1,3 +1,8 @@
+---
+name: gm-prep
+description: Game Master prep skill for preparing TTRPG sessions, designing encounters, managing loot, and writing session recaps in the Obsidian vault. Use when the user wants to plan, prep, or recap a session.
+---
+
 # Game Master Prep Work Skill
 
 This skill provides specialized instructions for preparing TTRPG sessions, designing encounters, managing loot, and writing recaps within the Obsidian vault.

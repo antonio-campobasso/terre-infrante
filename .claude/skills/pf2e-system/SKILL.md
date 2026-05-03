@@ -1,3 +1,8 @@
+---
+name: pf2e-system
+description: Pathfinder 2e system skill for working with PF2e mechanics, stat blocks, encounters, ancestries, items, spells, and rules in the Obsidian vault. Use when the user needs help with PF2e rules, monster creation, or mechanical content.
+---
+
 # Pathfinder 2e System Skill
 
 This skill provides specialized instructions for working with Pathfinder 2e mechanics, stat blocks, encounters, and rules within the Obsidian vault.

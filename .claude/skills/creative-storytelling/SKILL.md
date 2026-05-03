@@ -1,3 +1,8 @@
+---
+name: creative-storytelling
+description: Creative storytelling skill for crafting narrative arcs, plot hooks, character development, themes, and descriptions in the Obsidian vault. Use when the user wants to develop story beats, character arcs, conflicts, or narrative drafts.
+---
+
 # Creative Storytelling Skill
 
 This skill provides specialized instructions for crafting narrative arcs, plot hooks, character development, themes, and descriptions within the Obsidian vault.

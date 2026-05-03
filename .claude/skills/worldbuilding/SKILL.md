@@ -1,3 +1,8 @@
+---
+name: worldbuilding
+description: Worldbuilding skill for creating lore, locations, NPCs, factions, deities, languages, and other world elements in the Obsidian vault. Use when the user wants to create or expand world content like settlements, characters, events, or races.
+---
+
 # Worldbuilding Skill
 
 This skill provides specialized instructions for worldbuilding tasks within the Obsidian vault, focusing on creating rich lore, locations, NPCs, and factions.
