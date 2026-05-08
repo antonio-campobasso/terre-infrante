@@ -1,0 +1,17 @@
+#TODO Carta Magna
+- Crimini
+    - Furto : 1 settimana di incarcerazione e/o multa pari al doppio del valore delle merce rubata
+    - Evasione fiscale: fino a 2 settimane di incarcerazione e pignoramento di beni di un valore pari all'importo dovuto.
+    - Contraffazione : 2 settimane di incarcerazione, multa pari al valore della merce contraffatta e bandimento dalla gilda a cui si appartiene
+    - Violazione di proprietà privata: 2 settimana di incarcerazione e/o multa da 100sp
+    - Possesso di oggetto magico non approvato : da 1 a 3 settimane di incarcerazione e confisca dell'oggetto
+    - Possesso di merce illegale : da 1 a 3 settimane di incarcerazione, multa di 200sp e confisca della merce
+    - Venerazione di divinità Maligne: fino a 3 settimane di incarcerazione e/o multa da 300sp
+    - Danni a proprietà privata: 3 settimane di incarcerazione e multa pari al doppio del valore della proprietà distrutta
+    - Assalto con intento di ferire: 1 mese di incarcerazione e/o multa di 250sp
+    - Rapimento: 1 mese di incarcerazione e/o multa di 500sp
+    - Vendita di merce illegale : 1 mese di incarcerazione, 500sp di multa più il valore della merce venduta e bandimento dalla gilda a cui si appartiene
+    - Danni a proprietà pubblica: 1-2 mesi di incarcerazione e multa pari al doppio del valore della proprietà distrutta
+    - Assalto con intento di uccidere: 6 mesi di incarcerazione e multa di 1000sp
+    - Possesso di umanoide dotato di intelletto: da 6 a 12 mesi di incarcerazione e/o multa da 1000sp
+    - Omicidio: 5-10 anni di incarcerazione e/o multa di 5000sp#

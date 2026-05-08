@@ -1,0 +1,3 @@
+---
+Rarità: Non comune
+---

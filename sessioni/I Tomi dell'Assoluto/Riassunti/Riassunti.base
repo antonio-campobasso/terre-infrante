@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.folder == "sessioni/I Tomi dell'Assoluto/Riassunti"
+    - Campagna == ["I Tomi dell'Assoluto"]
+views:
+  - type: table
+    name: Table

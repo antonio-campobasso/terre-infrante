@@ -1,0 +1,16 @@
+- L'effetto cambia in base al sangue del peccato associato al demone
+- **Accidia**
+- **Arroganza**
+	- +2 ai tiri in volontà, +2 in diplomacy/intimidation, +1 alla classe armatura
+	- (effetto negativo)
+- **Avarizia**
+	- +2 ai tiri in Thievery per rubare, Perception per cercare tesori
+	- (effetto negativo)
+- **Gola**
+- **Invidia**
+	- Quando un nemico effettua un'azione puoi effettuare una reazione per copiarlo
+	- (effetto negativo)
+- **Lussuria**
+- **Ira**
+	- Ottieni +2 ai tiri per colpire, tiri in atletica e +1 ai danni
+	- Tutti i bersagli sono considerati come nemici

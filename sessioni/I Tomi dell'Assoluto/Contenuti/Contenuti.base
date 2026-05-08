@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.inFolder("sessioni/I Tomi dell'Assoluto/Contenuti")
+    - file.hasProperty("Tipo")
+views:
+  - type: table
+    name: Tutto
+    order:
+      - file.name
+      - Tipo
+      - Caratteristiche
+  - type: table
+    name: Aggiunte
+    filters:
+      and:
+        - Tipo != ["PG"]
+  - type: table
+    name: Personaggi
+    filters:
+      and:
+        - Tipo == ["PG"]
+    order:
+      - file.name
+      - Giocatore
+      - Caratteristiche

@@ -1,0 +1,5 @@
+- L'ametista del faraone
+- Campagna stupida (Amane, Ndo, Zexas, Mushashi, Asia, Vork, Orbor)
+- Il Re delle streghe
+- La corona di sangue
+- Cuore Tetro

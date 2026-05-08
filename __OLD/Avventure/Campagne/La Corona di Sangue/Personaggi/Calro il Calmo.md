@@ -1,0 +1,1 @@
+![[Calro il Calmo.jpg]]

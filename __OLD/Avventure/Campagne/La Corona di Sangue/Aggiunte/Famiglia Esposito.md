@@ -1,0 +1,6 @@
+-   Nonno Antonio, devoto a Mar’Adun
+-   Mamma Maria e Papà Ciro
+    -   Diego Armando (25 anni)
+    -   Antonio Jr. (10 anni)
+    -   Chantal (2 anni)
+-   Zio Gianni (fratello di Maria)

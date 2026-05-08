@@ -1,0 +1,4 @@
+---
+Rarità: Raro
+---
+beastkin

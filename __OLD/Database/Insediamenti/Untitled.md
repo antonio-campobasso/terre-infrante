@@ -1,0 +1,9 @@
+Aleport	Città	9	Caotico,Neutrale	Andorin	12.000
+Ambermoore	Città	10	Neutrale	Andorin	16.000
+Brinefort	Città	9	Caotico,Neutrale	Andorin	10.000
+Emperia	Metropoli	12	Legale,Neutrale	Andorin	22.000
+Musselbay	Città	8	Caotico,Neutrale	Andorin	10.000
+Ramscove	Città	8	Neutrale	Andorin	9000
+Windwharf	Città	10	Legale,Neutrale	Andorin	15.000
+Shadowhollow	Borgo	6	Neutrale	Andorin	1000-4000
+Hillbrand	Borgo	5	Neutrale	Andorin	2500

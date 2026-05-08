@@ -1,0 +1,2 @@
+# Guida Master
+*Campagna conclusa.*
