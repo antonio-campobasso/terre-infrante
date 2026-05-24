@@ -13,3 +13,5 @@ Caratteristiche:
 ![[Sparky originale.png]]
 
 ![[Jack Phineas.png]]
+
+![[Sparky completo.jpg]]
