@@ -1,4 +1,12 @@
-# Pianificazione Arco Narrativo
+*Note veloci a sessione in corso o tra una sessione e l'altra: cose da ricordare, reazioni dei giocatori, idee improvvise, domande aperte.*
+
+---
+
+## Foundry
+- Impostare spell an'to'to degli incubi
+- caricare foto marimo
+- generare altri 2/3 membri dell'equipaggio della viennetta
+- generare membri dell'equipaggio della zefiro
 
 ## Prossime Sessioni
 - Il gruppo parte verso Vemor in cerca di Barnaby (shoony, ex vice di Jack Phineas / Sparky), che custodisce la terza chiave

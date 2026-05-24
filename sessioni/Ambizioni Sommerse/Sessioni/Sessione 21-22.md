@@ -1,4 +1,3 @@
-- 21. Caos nel covo pirata
 **Livello Party:** 6
 **Luogo:** Owl's Dagger (Covo Pirata)
 
