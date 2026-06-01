@@ -105,28 +105,28 @@ Reda parla volentieri, ma solo dopo che il gruppo ha mangiato, bevuto, si è ril
 
 Le portate vengono servite su piatti di rame lucido da domestici silenziosi. Vino speziato e acqua di rose sul tavolo per tutta la durata.
 
-**Prima portata — Samosa dorati con chutney di tamarindo e zenzero:**
+X **Prima portata — Samosa dorati con chutney di tamarindo e zenzero:**
 - Voleva [[Esteban]] a capo dei pirati perché la marina si stava muovendo in modo pericoloso.
 - Il suo obiettivo: mantenere l'equilibrio tra Marina, Emir e Pirati. *"Questi mari mi hanno accolto durante e dopo la guerra. Non ho intenzione di vederli bruciare."*
 
-**Seconda portata — Murgh tikka su letto di cipolle grigliate:**
+X **Seconda portata — Murgh tikka su letto di cipolle grigliate:**
 - Ammette di aver mandato i suoi sicari contro Jack Phineas, su incarico della Marina.
 - Credeva fosse il solito scontro tra pirati e marina. Poi Amanda ha scoperto che la nave era affondata e il tesoro recuperato — e si è agitata in modo strano.
 - *"Ha accusato me, poi se n'è andata. Poco dopo il culto ha attaccato quella nave."*
 - Se Sparky rivela di essere Jack Phineas: *"Nulla di personale. Davvero."* Poi, dopo una pausa: *"Cosa pensi volesse Amanda, da te?"* — lo sa già, ma tasta le acque.
 
-**Terza portata — Biryani di gamberi al cocco con foglie di curry:**
+X **Terza portata — Biryani di gamberi al cocco con foglie di curry:**
 - Sa che [[Amanda Velier]] è in combutta con il [[Culto delle Fauci]].
 - La marina ha catturato un cultista mesi fa — poi è scomparso dai registri, finito sotto la giurisdizione di Amanda.
 - *"Pensa di poter usare il potere di Ka'ula per dominare i mari. Per conto suo o per la corona, non lo so ancora."*
 
-**Quarta portata — Rogan josh di agnello con pane naan tostato:**
+X **Quarta portata — Rogan josh di agnello con pane naan tostato:**
 - La *Viennetta* di Anton non è affondata: l'[[Emir della Seta Lucente]], [[Hatima Habibi]], ha lanciato una denuncia pubblica contro Amanda.
 - La marina ha aperto un'inchiesta sull'Uragano (la nave di Amanda) — prove insufficienti per ora.
 - *"Per ora."* — e indica Esteban con un cenno.
 - Aussi: anche lui è stato accusato da Hatima per gli scambi con l'[[Emir delle Spezie Sapide]] ([[Deelon Kildare]]). C'erano artefatti magici Kawano'i, niente di legato al culto.
 
-**Quinta portata — Kheer di riso con pistacchi e acqua di rose (dolce):**
+X **Quinta portata — Kheer di riso con pistacchi e acqua di rose (dolce):**
 - Reda racconta del passato con SerGianni: era giovane, fiero, felice di servire un uomo di valore.
 - Non rivela della mano: ha perso la mano al servizio di SerGianni, ma ha stretto un patto con un diavolo per riaverla. La mano gli permette di influenzare le persone col tocco.
 - Se il gruppo mostra la mappa del tesoro, Reda la osserva con interesse genuino — troppo genuino.
@@ -170,3 +170,5 @@ Esteban pianifica le prossime mosse. Il gruppo deve scegliere:
 ## Note Post-Sessione
 
 *(da compilare dopo)*
+
+An'to'to parla con gli spiriti
