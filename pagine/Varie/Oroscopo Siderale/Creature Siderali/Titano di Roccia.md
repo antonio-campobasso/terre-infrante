@@ -6,11 +6,8 @@ Parole chiave:
   - Stabilità
   - Forza
   - Resilienza
+Immagine: "[[Titano di Roccia.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_m1k3rlm1k3rlm1k3.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 I Titani di Roccia sono legati alla solidità della terra. Fermi e inamovibili nelle loro decisioni, affrontano le avversità con una forza incrollabile. Sono simboli di resistenza e sicurezza, capaci di sostenere chi li circonda nei momenti difficili. La loro pazienza è infinita, ma quando agiscono, lasciano un segno indelebile.

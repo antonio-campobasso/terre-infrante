@@ -6,11 +6,8 @@ Parole chiave:
   - Saggezza
   - Equilibrio
   - Perseveranza
+Immagine: "[[Tartaruga delle Maree.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_mbf1scmbf1scmbf1.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 Le Tartarughe delle Maree sono legate ai cicli eterni dell’acqua e del tempo. Rappresentano la calma e la capacità di trovare stabilità anche in mezzo alle correnti più tumultuose. Sono riflessive e pazienti, scegliendo con cura quando e come agire. La loro forza è nella loro lentezza, che li conduce sempre alla meta.

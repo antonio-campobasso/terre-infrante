@@ -6,11 +6,8 @@ Parole chiave:
   - Trasformazione
   - Astuzia
   - Rinascita
+Immagine: "[[Rospo di Giada.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_pody94pody94pody.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 I Rospi di Giada incarnano il ciclo della vita e del rinnovamento. Hanno una natura enigmatica e si muovono tra i cambiamenti con grazia e determinazione. Possono sembrare schivi, ma osservano tutto con attenzione, cogliendo dettagli che sfuggono agli altri. La loro forza risiede nella capacità di lasciarsi il passato alle spalle e rinascere più forti.

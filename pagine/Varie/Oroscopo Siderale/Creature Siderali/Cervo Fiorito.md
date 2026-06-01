@@ -6,11 +6,8 @@ Parole chiave:
   - Eleganza
   - Saggezza
   - Empatia
+Immagine: "[[Cervo Fiorito.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_nlbuw9nlbuw9nlbu.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
  I Cervi Fioriti incarnano la delicatezza e l’armonia della natura. Amano la bellezza e il significato nascosto dietro ogni cosa. Hanno un talento naturale nel creare legami profondi, guidati dalla loro sensibilità e dal desiderio di proteggere ciò che è prezioso.

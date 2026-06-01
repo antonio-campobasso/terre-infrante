@@ -6,11 +6,8 @@ Parole chiave:
   - Lealtà
   - Intuizione
   - Leadership
+Immagine: "[[Lupo Lunare.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_s0y8s0y8s0y8s0y8.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 I Lupi Lunari sono legati al potere delle lune e alle emozioni profonde. Hanno un’intuizione spiccata, che li rende capaci di guidare gli altri con saggezza. Sono protettori del loro branco e non esitano a combattere per ciò che ritengono giusto. 

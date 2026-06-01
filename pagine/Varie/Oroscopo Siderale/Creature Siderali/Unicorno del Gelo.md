@@ -6,11 +6,8 @@ Parole chiave:
   - Purezza
   - Speranza
   - Spiritualità
+Immagine: "[[Unicorno del Gelo.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_31ixjl31ixjl31ix.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 Gli Unicorni del Gelo portano luce e speranza nei momenti più difficili. La loro presenza è rassicurante e la loro anima è in sintonia con il mondo spirituale. Hanno una visione profonda e sanno trasmettere calma e fiducia agli altri.

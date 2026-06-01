@@ -6,11 +6,8 @@ Parole chiave:
   - Resilienza
   - Protezione
   - Generosità
+Immagine: "[[Orso delle Bacche.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_s4qc2fs4qc2fs4qc.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 Gli Orsi delle Bacche incarnano la stabilità e la forza. Sono pilastri su cui gli altri possono contare, sempre pronti a offrire il loro aiuto. La loro generosità è pari solo alla loro determinazione nel proteggere ciò che amano.

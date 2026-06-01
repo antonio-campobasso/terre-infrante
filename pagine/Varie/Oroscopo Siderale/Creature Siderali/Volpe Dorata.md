@@ -6,12 +6,8 @@ Parole chiave:
   - Intelligenza
   - Astuzia
   - Adattabilità
+Immagine: "[[Volpe Dorata.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_folv25folv25folv.png]]
-
-
-<!-- Column 2 -->
 # Descrizione
 
 Le Volpi Dorate sono strateghi naturali. La loro mente agile e creativa permette loro di affrontare situazioni complesse con eleganza. Sono maestri nell'arte del cambiamento, sempre pronti a sfruttare ogni occasione per migliorare la propria vita.

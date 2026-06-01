@@ -6,11 +6,8 @@ Parole chiave:
   - Saggezza
   - Introspezione
   - Mistero
+Immagine: "[[Gufo Stellato.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_4q8rx24q8rx24q8r.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 I Gufi Stellati sono osservatori silenziosi, con una profonda connessione al mondo spirituale. La loro sete di conoscenza li spinge a esplorare i misteri della vita, trovando risposte che altri non vedono. Sono custodi di segreti e grandi consiglieri.

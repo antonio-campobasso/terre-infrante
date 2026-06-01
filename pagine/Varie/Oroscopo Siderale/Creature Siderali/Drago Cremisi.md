@@ -6,11 +6,8 @@ Parole chiave:
   - Passione
   - Forza
   - Lealtà
+Immagine: "[[Drago Cremisi.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_gjyf48gjyf48gjyf.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 I Draghi Cremisi sono simboli di energia e ardore. La loro presenza è magnetica e la loro forza interiore li rende leader naturali. Tuttavia, possono essere impulsivi, guidati dalla passione che li anima, ma la loro lealtà è indiscutibile.

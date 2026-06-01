@@ -1,6 +1,4 @@
----
-cover: "[[_allegati/Oroscopo Siderale.jpeg]]"
----
+
 L'**Oroscopo Siderale** affonda le sue radici nell'Era delle Leggende, quando i primi popoli cercavano un ordine nel caos del cielo notturno. Quello che nacque come un insieme di miti si è evoluto in un complesso sistema psicologico e spirituale che influenza profondamente il destino degli abitanti di Argon. **Nascere sotto un segno** significa che, nel momento del primo respiro, una specifica costellazione dominava lo zenit, imprimendo nel "Flusso" dell'individuo l'impronta della creatura siderale corrispondente.
 
 Questo legame si manifesta attraverso le affinità planetarie: quando il **Pianeta Guida** (a favore) transita nel segno, si dice che l'individuo viva un periodo di massima armonia e potere, in cui le sue doti naturali sono amplificate. Al contrario, quando il **Pianeta Avverso** (contro) incrocia il cammino della costellazione, sorge una tensione che mette alla prova la determinazione del singolo, rappresentando ostacoli o limiti da superare. Molti si identificano con il proprio segno lasciandosene plasmare, mentre altri cercano di emulare le virtù della propria creatura celeste o, per spirito di ribellione, di opporsi ai tratti prestabiliti. Pur muovendosi nel confine tra credenza e tradizione, l’oroscopo continua a guidare scelte e destini, offrendo ai mortali una bussola per interpretare le proprie inclinazioni e il proprio ruolo nel sistema di Ilios.

@@ -6,11 +6,8 @@ Parole chiave:
   - Calore
   - Riflessione
   - Rigenerazione
+Immagine: "[[Salamandra del Focolare.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_rcnm2qrcnm2qrcnm.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 Le Salamandre del Focolare sono simboli di conforto e rinnovamento. Amano riflettere sui loro percorsi e trovare significati profondi in ogni esperienza. Sono maestri nell'offrire supporto emotivo, creando un ambiente accogliente e sereno per chi li circonda.

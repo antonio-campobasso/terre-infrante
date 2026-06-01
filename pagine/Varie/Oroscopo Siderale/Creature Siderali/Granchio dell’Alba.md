@@ -6,11 +6,8 @@ Parole chiave:
   - Determinazione
   - Protezione
   - Lealtà
+Immagine: "[[Granchio dell'Alba.png]]"
 ---
-<!-- Column 1 -->
-![[Gemini_Generated_Image_ywwfozywwfozywwf.png]]
-
-<!-- Column 2 -->
 # Descrizione
 
 Come il granchio che si muove tra terra e acqua, i nati sotto questo segno sono adattabili e resilienti. Hanno un forte senso di protezione verso i loro cari e affrontano le sfide con tenacia. Non temono i cambiamenti, ma li affrontano con pragmatismo e forza interiore.
