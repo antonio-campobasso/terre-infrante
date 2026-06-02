@@ -171,4 +171,7 @@ Esteban pianifica le prossime mosse. Il gruppo deve scegliere:
 
 *(da compilare dopo)*
 
-An'to'to parla con gli spiriti
+- An'to'to parla con gli spiriti
+- Rocchio fa il suo lavoro, cercando di appianare le tensioni tra la ciurma pirata che ancora non si abitua ad un capitano ex-marine
+- billie avvisa esteban di non stringere la mano a Reda e per fortuna lui se lo ricorda a fine cena
+- il gruppo penserà all'offerta di reda, ma Esteban non vede alternatived
