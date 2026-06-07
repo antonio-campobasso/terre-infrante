@@ -8,7 +8,7 @@ L'ametista è in grado di assorbire anime. L'ultimo faraone capisce che l'unico 
 Il faraone ha incontrato Astaroth
 
 # Introduzione
-Benvenuti [[Niruta]], nella città di Parash, posizionata lungo le sponde del fiume Mukada, al confine con l'arduo deserto di Bahrlimar che si estende all'orizzonte.
+Benvenuti [[Niruta --old]], nella città di Parash, posizionata lungo le sponde del fiume Mukada, al confine con l'arduo deserto di Bahrlimar che si estende all'orizzonte.
 
 In questo luogo intriso di mistero e avventura, avete sentito voci riguardanti un mercante enigmatico che traffica con oggetti unici, maestosi e misteriosi.
 

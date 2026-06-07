@@ -3,7 +3,7 @@ Info: Elfo F, 35
 Fazione: Studenti di Maktabat
 Ruolo: Farfalla
 Posizione: "[[Thonissen]]"
-Regione: "[[Kasmona]]"
+Regione: "[[Kasmona --old]]"
 ---
 ![[Fulshi.jpg]]
 

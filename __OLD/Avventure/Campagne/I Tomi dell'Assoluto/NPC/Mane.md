@@ -3,7 +3,7 @@ Info: Leshy F, 70
 Fazione: Studenti di Maktabat
 Ruolo: Tigre
 Posizione: "[[Balikdari]]"
-Regione: "[[Kasmona]]"
+Regione: "[[Kasmona --old]]"
 ---
 ![[Mane.jpg]]
 

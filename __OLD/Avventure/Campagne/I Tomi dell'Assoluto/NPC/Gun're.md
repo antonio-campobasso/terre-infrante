@@ -3,7 +3,7 @@ Info: Orco M, 28
 Fazione: Studenti di Maktabat
 Ruolo: Delfino
 Posizione: "[[Owentam]]"
-Regione: "[[Kasmona]]"
+Regione: "[[Kasmona --old]]"
 ---
 ![[Gun're.jpg]]
 

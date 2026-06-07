@@ -3,7 +3,7 @@ Info: Koboldo M, 9
 Fazione: Studenti di Maktabat
 Ruolo: Lupo
 Posizione: "[[Thonissen]]"
-Regione: "[[Kasmona]]"
+Regione: "[[Kasmona --old]]"
 ---
 ![[Ren.jpg]]
 

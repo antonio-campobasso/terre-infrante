@@ -1,34 +1,10 @@
 C'è un pesce chiamato [eulachon](https://it.wikipedia.org/w/index.php?title=Eulachon&action=edit&redlink=1 "Eulachon (la pagina non esiste)") o "pesce candela", un tipo di [osmeride](https://it.wikipedia.org/wiki/Osmeridae "Osmeridae") che si trova dall'Oregon all'Alaska. Durante il I secolo d.C., i [nativi americani](https://it.wikipedia.org/wiki/Nativi_americani "Nativi americani") di questa regione usavano l'olio ricavato da questo pesce per l'illuminazione.[[2]](https://it.wikipedia.org/wiki/Storia_della_fabbricazione_delle_candele#cite_note-telesco-2) Una semplice candela poteva essere fabbricata mettendo il pesce essiccato su un bastone a forcella e poi accendendolo.
 
 
-> [!warning]- Title
-> Contents
-
-🐒
-#TODO approfondire, bozza
-L'imperatore Ulfric Joderic aveva 4 figli, 2 gemelle, 1 ragazzo e una bambina. Una figlia, Frida è morta difendendo la città, una è diventata parte della chiesa Katrin, il figlio Beowulf ha portato la madre Ysildea lontano e la bambina è stata istruita da un nobile mago, Astrid
-
-Tutti credono che Ulfric sia morto combattendo nella sala del trono, ma in realtà è tornato a Jorinveit. Il suo corpo è stato portato ad Auram e sepolto in una cripta
-
-#TODO approfondire
-figlia di [[Ulfric Joderic]], la sua gemella Frida è morta difendendo la città, vedi [[Famiglia Joderic]]
-
-quando crei una mappa pensa a 
-clima
-luce
-spazio
-elevazione
-terreno
-ostacoli
 
 Shi-Wu, "La volpe delle nevi" è un essere mistico, figlio della montagna e fratello della grande incantatrice Hao Jin, la fenice di rubino. Per molto tempo Shi-Wu ha vissuto con la sorella, ma quando è sparita 300 anni fa, ha deciso di allenarsi in un tempio di monaci per riuscire a sviluppare i suoi poteri.
 Ora che sua sorella è ricomparsa aspetta il momento giusto per sfidarla, mentre continua incessantemente ad addestrarsi tra le montagne innevate.
 
-
-#cultura #nani clan nanici reali terminano con borne. steelborne, clayborne ecc
-
-#religione #niruta 
-divinità delle stagioni, a niruta dei dei fiumi
 
 #regionemostri #goramar #niruta
 La regina dei drow comanda la città nella roccia del deserto. ha numerosi principi che muoiono dopo essere stati con lei. Venerano l'animale ragno. Assieme a loro convivono goblin, orchi e altre razze emarginate, detti figli della notte. Il loro obbiettivo è riprendersi il deserto  
@@ -127,3 +103,6 @@ Unico museo del continente a Rylorwyn, comprende un'università, centro di speri
 -: guida alla magia
 -Sylas(M gunslinger): guida alla tecnologia
 -: guida all'occultismo
+guida all'equipaggiamento da parte dei fabbri?
+
+

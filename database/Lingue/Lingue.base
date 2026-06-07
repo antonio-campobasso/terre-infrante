@@ -31,6 +31,24 @@ views:
       - property: base
         direction: ASC
   - type: cards
-    name: View
-    cardSize: 100
+    name: Liria
+    filters:
+      and:
+        - continente.contains("Liria")
+    order:
+      - file.name
+      - famiglia
+      - Rarità
+    cardSize: 120
+    imageAspectRatio: 1
+  - type: cards
+    name: Eloran
+    filters:
+      and:
+        - continente.contains("Eloran")
+    order:
+      - file.name
+      - famiglia
+      - Rarità
+    cardSize: 120
     imageAspectRatio: 1

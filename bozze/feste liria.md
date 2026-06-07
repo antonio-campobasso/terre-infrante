@@ -1,3 +1,10 @@
+---
+tags:
+  - bozza
+  - ambientazione
+type: bozza
+status: draft
+---
 ### Il Risveglio del Diadema e le Feste della Libertà
 
 L'identità politica di Liria si riflette in celebrazioni solenni che ricordano la fine del dominio imperiale. A Couronne, la festività principale è stata rinominata **Il Giorno del Diadema di Mare**; è un momento di profonda commozione nazionale che celebra l'incoronazione della Regina Althéa e la restaurazione della sovranità reale dopo il tragico massacro della famiglia Velasquez. Mentre le navi della Marina Reale sfilano in parata, la popolazione onora la rinascita del regno con banchetti che simboleggiano la stabilità ritrovata.

@@ -1,6 +1,0 @@
-filters:
-  and:
-    - file.tags.containsAny("TODO", "todo")
-views:
-  - type: table
-    name: Table

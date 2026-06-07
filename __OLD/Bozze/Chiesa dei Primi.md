@@ -55,9 +55,9 @@ Sedi
 
 Regioni
 
-[[Andorin]]
+[[Andorin --old]]
 
-[[Rylorwyn]]
+[[Rylorwyn --old]]
 
 #TODO aggiungi altre regioni
 

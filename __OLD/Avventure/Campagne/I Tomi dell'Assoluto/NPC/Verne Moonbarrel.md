@@ -3,7 +3,7 @@ Info: Halfling F, 43
 Fazione: Studenti di Maktabat
 Ruolo: Orso
 Posizione: "[[Balikdari]]"
-Regione: "[[Kasmona]]"
+Regione: "[[Kasmona --old]]"
 ---
 ![[Verne Moonbarrel.jpg]]
 

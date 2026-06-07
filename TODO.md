@@ -44,8 +44,4 @@ lingue
 ## Pagine
 - [ ] Terre Infrante
 
-![[Untitled.base]]
-
-
-
 

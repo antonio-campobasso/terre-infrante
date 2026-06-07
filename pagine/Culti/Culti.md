@@ -1,5 +1,7 @@
 Nelle Terre Infrante, non tutta la devozione è rivolta verso l’alto. Esistono forme di fede più antiche e viscerali che non cercano il favore di una divinità trascendente, ma attingono potere da ciò che è vicino: il sangue, la natura o la forza recondita dello spirito umano. Se la Religione è sottomissione, il **Culto** è **partecipazione**.
 
+#TODO completa qui
+
 [[Luxor]]
 
 (valhalla? forse meglio come religione)

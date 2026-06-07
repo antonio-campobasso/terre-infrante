@@ -20,7 +20,7 @@ Al culmine della battaglia, invece di permettere la nascita di una nuova e impre
 ## Continenti
 I frammenti di terra sopravvissuti all'ira di Astaroth e stabilizzati dagli Ascesi formano oggi i quattro continenti principali delle Terre Infrante. Lontani dall'essere lande pacifiche, questi vasti territori sono veri e propri crogioli di culture, magia e conflitti. Ogni continente ha sviluppato un'identità forte e inconfondibile, dettata dalle cicatrici fisiche del cataclisma e dall'indomita volontà di sopravvivenza dei suoi abitanti. Avventurarsi oltre i confini del proprio continente significa lasciarsi alle spalle tutto ciò che è familiare per immergersi in mondi dominati da leggi, biomi e pericoli radicalmente diversi, dove la storia viene riscritta ogni giorno col sangue e con l'acciaio.
 
-### [[Eloran|Eloran: Il Mosaico del Potere]]
+### [[Eloran --old|Eloran: Il Mosaico del Potere]]
 Eloran è un continente di forti **contrasti**, dove la natura selvaggia e le **montagne impervie** convivono con le **città vivaci**, piene di **intrighi** e **politiche complesse**. La sua storia è segnata da **magia** potente e **conflitti** che attraversano le epoche, con popolazioni che si sfidano per il controllo delle risorse e del potere. Antiche **rovine** e **segreti dimenticati** sono nascosti nelle sue terre, pronti a rivelarsi a chi è abbastanza audace da cercarli. Ad Eloran il passato e il presente si intrecciano in un eterno gioco di **potere**, **fama** e **ricchezza**.
 
 ---

@@ -40,6 +40,6 @@ TABLE Info, Ruolo, Allineamento, Posizione FROM "Database/Personaggi" WHERE cont
 ```
 
 # Storia
-Originariamente la Legione era un gruppo mercenario assoldato dalla Couronne per combattere nella [[Guerra delle Mezze Lame]]. Si distinsero negli scontri per la loro abilità e al termine del conflitto decisero di restare ad [[Andorin]], stabilendo la loro sede nei pressi di [[Brinefort]].
+Originariamente la Legione era un gruppo mercenario assoldato dalla Couronne per combattere nella [[Guerra delle Mezze Lame]]. Si distinsero negli scontri per la loro abilità e al termine del conflitto decisero di restare ad [[Andorin --old]], stabilendo la loro sede nei pressi di [[Brinefort]].
 
 Da allora sono succeduti 3 generali e il secondo, Enea Tullius riuscì a stipulare nell’anno 718 i Patti Aurei con i Baroni delle città. Da allora la Legione sarebbe diventata il corpo di guardia ufficiale di ogni città. Riorganizzò inoltre la Legione per darle una struttura più militare.

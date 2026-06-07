@@ -15,7 +15,7 @@
 # Geografia
 - [[Astronomia]]
 - [[Cosmologia]]
-- [[Terre Ignote (WIP)]]
+- [[Terre Ignote]]
 - [[Terre Infrante]]
 
 # Magia

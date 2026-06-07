@@ -43,7 +43,7 @@ Si basano sulla **comprensione** di leggi universali. Non cercano il favore di u
 
 - **Esempio:** Studi l'albero come parte di un ciclo energetico per capire come la sua crescita segua le leggi della geometria sacra.
 
-## Credi più diffusi (WIP da definire bene tutti)
+## Credi più diffusi ( #TODO  da definire bene tutti)
 
 |**Regione**|**Credo Principale**|**Tipologia**|**Oggetto di Culto / Descrizione**|
 |---|---|---|---|

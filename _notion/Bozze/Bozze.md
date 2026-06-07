@@ -4,15 +4,15 @@ notion-id: 1bfd234d-3e5f-806c-99c0-ff9e6d654cb3
 terrauri (paradiso)
 pandemonium (inferno)
 [[wb levels]]
-[[Villain]]
+[[_notion/Bozze/Villain]]
 
-[[Endrhemir]]
-[[chakra]]
-[[Inferno]]
+[[_notion/Bozze/Endrhemir]]
+[[_notion/Bozze/chakra]]
+[[_notion/Bozze/Inferno]]
 [[Idee spazio]]
 [[Oriente]]
 [[religioni diffuse]]
-[[Impero]]
+[[_notion/Bozze/Impero]]
 [[culti e filosofie]]
 [[_notion/Bozze/Storia]]
 
@@ -65,4 +65,4 @@ Tra sfarzosi palazzi e campi di battaglia, i regni confinanti si contendono il p
 Una frattura planare ha aperto un varco nel piano materiale, portando alla luce una nuova e misteriosa sostanza che si diffonde dalle miniere antiche. Questa sostanza, insieme a creature mostruose che ne hanno fatto la loro dimora, sta trasformando il paesaggio e i destini dei popoli. I giocatori devono avventurarsi nelle miniere per recuperare campioni, scoprire il potere di questo materiale e fronteggiare orde di mostri che emergono dal profondo della frattura. Tra combattimenti frenetici e la raccolta di risorse rare, il destino del reame è appeso a un filo sottile di mistero e pericolo.
 
 [[Esteban Mallarg]]
-[[Terre Infrante]]
+[[Terre Infrante --old]]

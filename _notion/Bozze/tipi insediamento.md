@@ -1,6 +1,7 @@
 ---
 notion-id: 205d234d-3e5f-8041-adcc-ceda955c1044
 ---
+
 | Livello | Tipo      | Abitanti          | Caratteristiche                                                                                                                                                                                                                                                                                                        | Cosa offre                                                                                                                                    |
 | ------- | --------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0-3     | Villaggio | Qualche centinaia | Scarse risorse, commercianti di passaggio, si vive di caccia, foraggio e coltivazioni non per l'export, piccolo coso autorità                                                                                                                                                                                          | lllllRicompense modeste per incarichi semplici o personali, informazioni sulla zona                                                           |

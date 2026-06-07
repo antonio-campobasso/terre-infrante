@@ -1,0 +1,1 @@
+raccogliere qui tutte le idee

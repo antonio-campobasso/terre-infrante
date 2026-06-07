@@ -11,7 +11,7 @@ Rigido e impassibile, riflette su ogni decisione che prende. Ha una ferita di gu
 ## Personalità
 - **Debolezza**: pensa sempre al caso peggiore.
 - **Bisogno**: provare empatia per gli altri.
-- **Desiderio**: spera di vedere [[Rylorwyn]] rinascere.
+- **Desiderio**: spera di vedere [[Rylorwyn --old]] rinascere.
 - **Nemici**: la burocrazia e i tentativi di ostacolare le sue indagini.
 # Legami
 È temuto da tutti nella Chiesa, ma i suoi Visconti sanno di poter contare su di lui. Ha una sorella con cui non ha contatti dalla fine della guerra e diverse conoscenze a [[Imyf Thalas]], ma non vuole più avere a che fare con la città.

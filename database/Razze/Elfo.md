@@ -4,4 +4,4 @@ Lingue: []
 Gruppo: Fate
 Rarità: Comune
 ---
-![[Elfo.png]]
+![[allegati/Elfo.png]]

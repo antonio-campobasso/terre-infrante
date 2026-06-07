@@ -70,6 +70,8 @@ Per indicare una data si usa il nome del giorno della settimana seguito dal nume
 ---
 
 ## Ore del giorno
+#TODO aggiungere che le giornate sono divise in 24 ore da 60 minuti ciascuna e ogni minuto si conta in 60 secondi. questo perchè gli antichi erano soliti contare con le mani e i segmenti delle dita, riuscendo ad arrivare ad un massimo di 60 con 2 mani (12 segmenti di 4 dita contati con il pollice x 5 dita dell'altra mano)
+
 Le ore prendono il nome dagli animali che le abitano e non sono fisse: alba e tramonto si spostano con le stagioni, trascinando con sé tutti i confini. I valori indicati sono riferimenti medi validi agli equinozi. Ai solstizi lo scarto può raggiungere un'ora in anticipo o in ritardo rispetto a questi valori.
 
 | Ora                     | Riferimento agli equinozi | Solstizio d'estate (19 Helianthus) | Solstizio d'inverno (19 Ilex) |

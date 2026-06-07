@@ -1,3 +1,11 @@
+---
+tags:
+  - bozza
+  - ambientazione
+type: bozza
+status: draft
+---
+
 Questa è un'ottima convenzione di naming. Dato che hai usato radici inglesi (_Steel_, _Clay_), manterrò questo stile, che suona molto bene per delle antiche casate naniche.
 
 Essendo i nani di **Tripeaks** strettamente legati al mare, alle navi, al freddo e all'ingegneria complessa, ecco diverse opzioni divise per specializzazione, comprese alcune perfette per sostituire la "Casata Forgiacupa" nel ruolo dei traditori.

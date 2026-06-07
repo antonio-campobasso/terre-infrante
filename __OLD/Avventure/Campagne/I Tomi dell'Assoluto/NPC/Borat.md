@@ -3,7 +3,7 @@ Info: Umano Aivuran M, 25
 Fazione: Studenti di Maktabat
 Ruolo: Serpe
 Posizione: "[[Owentam]]"
-Regione: "[[Kasmona]]"
+Regione: "[[Kasmona --old]]"
 ---
 ![[Borat.jpg]]
 

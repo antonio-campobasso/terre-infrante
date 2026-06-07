@@ -1,7 +1,7 @@
 # Ambientazione
 ## Cultura
-- [[__OLD/Pagine/Calendari]]
-- [[__OLD/Pagine/Leggi]]
+- [[Calendari --old]]
+- [[Leggi --old]]
 - Moneta
 	- Quanto vale all'incirca un argento, chi le crea, chi definisce il valore
 
@@ -9,7 +9,7 @@
 - Civilità
 	- Proto-civiltà (Fate, Giganti, Draghi)
 	- 
-- [[Razze e Lignaggi]]
+- [[Razze e Lignaggi --old]]
 - Lingue
 
 # Credenze
@@ -22,14 +22,14 @@
 
 # Geografia
 ## Astrologia
-- [[Corpi Celesti]]
+- [[Corpi Celesti --old]]
 - Costellazioni
-- [[Piani]]
+- [[Piani --old]]
 
 ## Continenti
-- [[Continenti Antichi]]
-- [[Terre Infrante]]
-- [[Mari]]
+- [[Continenti Antichi --old]]
+- [[Terre Infrante --old]]
+- [[Mari --old]]
 
 # Magia
 ## Origine

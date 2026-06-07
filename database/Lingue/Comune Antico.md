@@ -1,7 +1,7 @@
 ---
 Famiglia: Comune
 Alfabeto: Latino arcaico
-Rarità: rarissima
+Rarità: Rarissima
 Continente:
   - Eloran
   - Zethana

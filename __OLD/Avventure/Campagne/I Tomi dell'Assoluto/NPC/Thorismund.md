@@ -3,7 +3,7 @@ Info: Umano M, 16
 Fazione: Studenti di Maktabat
 Ruolo: Corvo
 Posizione: "[[Thonissen]]"
-Regione: "[[Kasmona]]"
+Regione: "[[Kasmona --old]]"
 ---
 ![[Thorismund.jpg]]
 
