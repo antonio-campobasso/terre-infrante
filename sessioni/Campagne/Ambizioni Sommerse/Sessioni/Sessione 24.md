@@ -82,6 +82,10 @@ Cosa possono trovare:
 
 > [!todo] Aggiornare l'inventario del negozio di Scythrae prima della sessione (consumabili di livello 6, munizioni speciali, eventuale oggetto a tema mare per Billie).
 
+wand of continuation 1 (juvenile companion)
+wand of continuation 2 (claws of the otter)
+spellstrike ammunition 3 (fireball)
+
 ---
 
 ## Scena 2: Il Patto e la Rotta (Sociale / Decisione)
@@ -103,15 +107,16 @@ Il gruppo salpa con la *[[Zefiro]]* verso est.
 La mappa di SerGianni **non indica con precisione** l'isola: dà una zona e una serie di riferimenti. Sta ai giocatori trovarla.
 
 ### Cosa fornire ai giocatori
+>"O potente Seryan, che scagli il tuo fulmine **dove il sole muore due volte**, guida il mio sangue a **contare le dita della mano annegata** e spalanca la tempesta verso l'isola che solo gli occhi del mio domani sapranno trovare."
 
 - Consegnare loro un **handout della mappa** (zona orientale, costa, simboli di contrabbando dei tempi di SerGianni, un marchio simile a quello di Reda).
 - Indizi di rotta da risolvere con prove o ragionamento:
 
-| Indizio sulla mappa | Significato |
-|---|---|
-| *"Dove il sole muore due volte"* | Un'isola gemella più alta proietta ombra sulla seconda al tramonto: cercare la coppia di isole, puntare la più piccola |
-| *"Conta le dita della mano annegata"* | Una formazione di **cinque scogli** a forma di dita emerge a bassa marea: la rotta passa tra il pollice e l'indice |
-| Simbolo del marchio di Reda | Vecchia rotta di contrabbando: seguirla porta dritti all'insenatura nascosta |
+| Indizio sulla mappa                   | Significato                                                                                                            |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| *"Dove il sole muore due volte"*      | Un'isola gemella più alta proietta ombra sulla seconda al tramonto: cercare la coppia di isole, puntare la più piccola |
+| *"Conta le dita della mano annegata"* | Una formazione di **cinque scogli** a forma di dita emerge a bassa marea: la rotta passa tra il pollice e l'indice     |
+| Simbolo del marchio di Reda           | Vecchia rotta di contrabbando: seguirla porta dritti all'insenatura nascosta                                           |
 
 **Meccanica:** prove di [[Survival]] / [[Sapere (navigazione)]] / [[Society]] per interpretare i segni. Successi → rotta dritta. Fallimenti → giorni persi, incontro casuale in mare (banco di nebbia, predoni minori, o un avvistamento inquietante del culto che li precede). Lasciare comunque che **trovino l'isola** — è uno step di atmosfera, non un muro.
 
@@ -160,8 +165,8 @@ Oltre la serratura, una **camera-trappola**: piccola, claustrofobica, costruita 
 
 > *"Una nave non affonda per il mare che ha intorno,*
 > *ma per quello che lascia entrare.*
-> *Spegni ciò che ti illude di vedere,*
-> *e troverai la rotta nel buio."*
+> *Non fidarti delle bussole e degli astrolabi*
+> *la vera rotta è incisa nelle stelle"*
 
 **Soluzione:** **spegnere** (non accendere) le proprie fonti di luce e fidarsi del buio. Al buio totale, sul soffitto si rivela una **costellazione fosforescente** (alghe luminose) che indica la combinazione del timone di pietra → ruotandolo, la vasca si svuota e si apre il vano del tesoro.
 

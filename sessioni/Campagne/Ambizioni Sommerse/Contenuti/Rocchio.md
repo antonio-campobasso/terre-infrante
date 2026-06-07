@@ -11,3 +11,5 @@ Caratteristiche:
 ![[Rocchio.png]]
 
 ![[Pussyntonio.png]]
+
+![[Rocchio Barba.png]]

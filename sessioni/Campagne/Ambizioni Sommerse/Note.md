@@ -3,12 +3,11 @@
 ---
 
 ## Foundry
-- [ ] Impostare spell an'to'to degli incubi
-- [ ] caricare foto marimo
-- [ ] generare altri 2/3 membri dell'equipaggio della viennetta
-- [ ] Rocchio ha la barba, aggiorna immagine
-- [ ] le lettere di Eliza
-- [ ] mappe
+- [x] Impostare spell an'to'to degli incubi
+- [x] caricare foto marimo
+- [x] Rocchio ha la barba, aggiorna immagine
+- [x] le lettere di Eliza
+- [x] mappe
 
 ## Prossime Sessioni
 - Il gruppo parte verso Vemor in cerca di Barnaby (shoony, ex vice di Jack Phineas / Sparky), che custodisce la terza chiave
