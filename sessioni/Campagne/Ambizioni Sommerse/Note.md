@@ -9,6 +9,11 @@
 - [x] le lettere di Eliza
 - [x] mappe
 
+## Richieste alla banca del seme
+- dove si trova la tomba di kaula mak'rao
+- ultime rovine kawano'i
+- 
+
 ## Prossime Sessioni
 - Il gruppo parte verso Vemor in cerca di Barnaby (shoony, ex vice di Jack Phineas / Sparky), che custodisce la terza chiave
 - Possibile incontro con la vecchia ciurma di Jack Phineas: separazione? Alleanza?
