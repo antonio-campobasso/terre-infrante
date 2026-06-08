@@ -12,7 +12,7 @@
 ## Richieste alla banca del seme
 - dove si trova la tomba di kaula mak'rao
 - ultime rovine kawano'i
-- 
+- kawano
 
 ## Prossime Sessioni
 - Il gruppo parte verso Vemor in cerca di Barnaby (shoony, ex vice di Jack Phineas / Sparky), che custodisce la terza chiave
