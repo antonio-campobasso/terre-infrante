@@ -20,7 +20,7 @@ C
 [[Fazioni]]
 [[Luoghi]]
 [[Oggetti]]
-[[sessioni/Idee/Il Misterioso Mittente/Note]]
+[[master/Idee Campagne/Il Misterioso Mittente/Note]]
 <!-- Column 1 -->
 ![[New database.base]]
 
