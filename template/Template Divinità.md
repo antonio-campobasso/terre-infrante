@@ -28,12 +28,9 @@ Domini: []
 - **Seguaci:** [Quali popoli, classi o professioni sono attratti da questa fede? (Esempio: mercanti, guerrieri, nomadi)].
 - **Riti e Manifestazioni:** [Come pregano i fedeli? Quali sono i rituali iniziatici o quotidiani? Come si manifesta l'intercessione della divinità (segni, emissari, araldi)?]
 
-<!-- Column 1 -->
 ## Editti
 
 [Azioni obbligatorie o comportamenti incoraggiati (es. "Sopravvivi a ogni costo", "Rivela sempre la verità")].
-
-<!-- Column 2 -->
 ## Anatemi
 
 [Azioni proibite che recidono il legame con la divinità (es. "Sprecare risorse", "Mentire")].

@@ -31,7 +31,7 @@ Lore specifico delle [[Terre Infrante]] e di [[Argon]].
 - [[Casate Naniche di Tripeaks]] — naming convention e candidati per la casata traditrice.
 - [[Feste di Liria]] — celebrazioni e riti del Diadema, della Forgia, del Mare.
 - [[Famiglia Varten]] — albero genealogico imperiale e destino di Ulfric.
-- [[Endrhemir]] — spunti narrativi e profezie aperte.
+- [[bozze/Endrhemir]] — spunti narrativi e profezie aperte.
 
 ## Campagne / Idee
 

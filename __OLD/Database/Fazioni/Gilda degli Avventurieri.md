@@ -22,7 +22,7 @@ TABLE Fazioni, Regioni FROM "Database/Località" OR "Database/Edifici" WHERE con
 Per esprimere il proprio rango, agli avventurieri vengono assegnate due targhette del materiale corrispondente. Su queste vengono scritti il nome e il luogo in cui inviare il proprio corpo in caso di morte.
 
 - **Adamantio** (Capogilda)
-	- **Mithral** (In casi molto speciali)
+	- **Oricalco** (In casi molto speciali)
 		- **Oro** (Solitamente dal livello 11)
 			- **Argento** (Solitamente dal livello 6)
 				- **Rame** (Solitamente dal livello 1)

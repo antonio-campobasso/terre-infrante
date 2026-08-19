@@ -22,55 +22,90 @@ Curati e interrogati i superstiti, il capitano **Herek** ha confessato di aver r
 
 ## Obiettivi / Hook
 
-- Superare l'**assalto notturno dei cultisti** — la prima battaglia combattuta *insieme*, Marina e pirati.
-- Cementare il **senso di ciurma** tra vecchi e nuovi (Herek, Kima, i marinai).
-- Attraccare all'**Atollo di Kan'i** e cominciare la caccia a **Barnaby**.
+- Attraccare all'**Atollo di Kan'i** e trovare **Barnaby**.
+- Convincere Barnaby ad aiutarli: la **terza chiave** (la pietra) giace sul fondale.
+- Recuperare la pietra: **immersione e scontro subacqueo**.
 - Tenere aperto il filo della **visione di Thon**.
 
 ---
 
-## Scena 1: Assalto Notturno (Combattimento)
-
-Rotta verso l'**Atollo di Kan'i**. Nel cuore della notte, alcuni **cultisti** assaltano la *Zefiro* e tentano di colpire il gruppo (obiettivo: la chiave / il diapason, o semplicemente eliminare chi dà loro la caccia).
-
-**Il punto della scena — non è solo un combattimento:** è il primo momento in cui **Marina e pirati combattono fianco a fianco**. È qui che si **cementa la fiducia** appena nata al matrimonio. Dare ai nuovi arrivati (Herek, Kima, i marinai) momenti di spotlight in cui salvano o coprono un PG — e viceversa.
-
-> [!note] Budget incontro (PF2e, ~5 PG liv. 7)
-> Puntare a **Severo (~140 XP con 5 PG)**, ma con gli **alleati PNG** che assorbono parte della pressione → difficoltà percepita **Moderata**.
-> - **1 leader cultista** (Elite, ~liv. 8) — obiettivi e voce del culto.
-> - **4-6 cultisti/sicari** (~liv. 4-5) che salgono a bordo a ondate.
-> - Terreno: ponte al buio, pioggia/onde → aggancio per **Acrobatics/Athletics**, lanterne rovesciate, incendi da spegnere.
-> Finalizzare gli stat block con la skill **pf2e-system**.
-
-> [!todo] Da preparare
-> - Stat block cultisti + leader.
-> - 2-3 "beat" di cooperazione già pronti (Kima ripara una falla sotto tiro; Herek copre le spalle a Sparky; un marinaio Marina para un colpo a Idryt).
-
----
-
-## Scena 2: Approdo a Kan'i (Esplorazione / Chiusura)
+## Scena 1: Approdo a Kan'i (Esplorazione)
 
 Attracco all'**Atollo di Kan'i**.
 
 **Descrizione (la calma dopo la tempesta):** isole **pacifiche**, spiagge di **sabbia nera vulcanica** che luccica al sole, acque basse e trasparenti, palme piegate dal vento. Un pugno di abitanti, silenzio, odore di sale e zolfo. Il contrasto con la violenza della notte deve **sentirsi**: la ciurma — vecchia e nuova — sbarca finalmente unita.
 
-Gancio in sospeso: da qualche parte, qui, c'è **Barnaby**.
+Da qualche parte, qui, vive **Barnaby**.
+
+---
+
+## Scena 2: Barnaby (Sociale — cuore della sessione)
+
+Il gruppo rintraccia **Barnaby**. Vive da recluso, una vita tranquilla su quest'isola dimenticata, scelta apposta perché **nessuno lo riconoscerebbe**.
+
+### Se [[Sparky]] lo riconosce (o si presenta come il vecchio capitano)
+
+Barnaby gli si rivolta contro. La verità che sputa fuori è amara:
+
+> - Non hanno **mai** seguito un ideale, né una regola. Erano **razziatori**, niente di più.
+> - Sciolta la ciurma, a Barnaby **non è rimasto nulla** — se non il **rimorso** per ciò che ha fatto.
+> - È sparito tra queste isole per **vivere in pace**, lontano da chi potrebbe riconoscerlo.
+
+**Il tatuaggio.** Barnaby tiene il **braccio bendato**: sotto, il tatuaggio della vecchia ciurma, ricordo costante di ciò che è stato. Costringilo a **rifasciarlo** davanti al gruppo — gesto nervoso, involontario. Non ha **alcun rispetto per [[Jack Phineas|Phineas]]**.
+
+### La rivelazione: la pietra è in fondo al mare
+
+Barnaby rivela che il tesoro di Phineas — **la pietra inclusa** (la terza chiave) — è stato **gettato in fondo al mare**, al largo di quest'isola.
+
+### Convincerlo (Diplomacy / leve narrative)
+
+[[Idryt]], [[Esteban Piumabianca|Piumabianca]] e il resto del gruppo possono provare a **convincerlo** della loro missione. Non basta la forza: serve mostrargli che stavolta c'è **uno scopo** (fermare il culto, non razziare). Se convinto, Barnaby può tornare utile: li porta in barca fino al punto dove **pesca di solito** — proprio sopra il fondale del tesoro.
+
+> Leve: il rimorso di Barnaby può diventare **riscatto**; la missione gli offre un senso che la vita da recluso non gli dà. Sparky come specchio (anche lui era di quella ciurma). Minacciarlo o trattarlo da razziatore lo **richiude**.
+
+> [!todo] Da preparare
+> - Aspetto/voce di Barnaby, la sua barca da pesca, il punto di immersione.
+> - Cosa sa esattamente della pietra e di come finì in mare.
+
+---
+
+## Scena 3: Il Fondale (Esplorazione + Scontro Subacqueo)
+
+Barnaby li guida al suo punto di pesca. Sotto la superficie: acque scure che digradano verso un **fondale vulcanico**, colonne di bolle di zolfo, il relitto/tesoro affondato dove giace la **pietra**. Qualcosa si aggira là sotto.
+
+> [!warning] Combattimento Subacqueo (PF2e — CRB "Aquatic Combat", verifica p. 478)
+> - **Movimento:** senza velocità di nuoto si è **[[Flat-Footed|colti alla sprovvista]]** e serve **Athletics (Nuotare)** per muoversi (fallimento critico = affondi/anneghi).
+> - **Respirare:** i PG senza soluzioni magiche/alchemiche fanno la conta dei round in apnea (Costituzione) → predisporre **water breathing**, elisir, o l'aiuto di [[Adelaide]]/incantatori.
+> - **Armi da mischia:** **–2 di circostanza** al TxC con armi contundenti o taglienti (a meno del tratto *aquatic*). Le armi **perforanti** funzionano meglio.
+> - **Armi a distanza:** contundenti/taglienti lanciate/da tiro **falliscono**; le perforanti (balestra) subiscono penalità e **gittata ridotta**.
+> - **Fuoco:** azioni col tratto *fire* non funzionano; il fuoco magico infligge **metà danno**. (Occhio a Sparky e alle build da fuoco.)
+
+> [!note] Budget incontro (PF2e, ~5 PG liv. 7). Finalizza il roster con l'**Encounter Builder**.
+> - **Moderato (~100 XP):** 1× **Chuul** (Creatura 7) + 2× **Bunyip** (Creatura 4), con qualche **Reefclaw** (Creatura 1) come minaccia ambientale.
+> - **Severo (~150 XP):** 1× **Polpo Gigante / Giant Octopus** (Creatura 8) o **Chuul Elite** come predatore del fondale + 2× **Bunyip** (Creatura 4) + sciame di **Reefclaw**.
+>
+> **Candidati subacquei (Bestiary):** Reefclaw (1), Sahuagin (2) / Sahuagin Priest (6), Bunyip (4, *blood frenzy*), Kelpie (5), Chuul (7, *grab* + paralisi), Giant Octopus (8). Tema alternativo: **morti annegati** (Drowned Corpse, Creatura 1) attratti dal tesoro affondato — coerente col relitto di Phineas.
+
+> [!todo] Da preparare
+> - Stat block del predatore scelto + gregari.
+> - Mappa verticale del fondale (profondità = tempo/respiro), posizione della **pietra**.
+> - Come Barnaby partecipa (resta in barca? si immerge? conosce le correnti?).
 
 ---
 
 ## Segreti & Indizi
 
-- [ ] Il **culto sa dove cercarli** e attacca in mare aperto: qualcuno segue le loro rotte.
-- [ ] La battaglia comune è la **prova del fuoco** dell'alleanza Marina/pirati: se regge qui, regge.
 - [ ] **Kima** vale un alleato per tutta la campagna se conquistata; un rimpianto se persa.
+- [ ] La ciurma di **Phineas** non era una leggenda nobile: solo razziatori. Ridimensiona il mito — e pesa su **Sparky**.
+- [ ] La **terza chiave** (la pietra) è sul **fondale**, gettata via col tesoro di Phineas.
 - [ ] La **visione di Thon** (zolfo, arti recisi, *"capitano"*) è un seme: presagio, memoria, o richiamo? Non spiegarla ancora.
 
 ---
 
 ## Dopo la Sessione / Agganci
 
-- **Kan'i**: trovare Barnaby (terza chiave).
-- Poi: **ritorno da Reda** → Reda li accoglie ma li **tradisce**; Amanda li porta a **Thaurenai** per l'esecuzione e ruba la chiave.
+- Recuperata la pietra → **ritorno da Reda** → Reda li accoglie ma li **tradisce**; Amanda li porta a **Thaurenai** per l'esecuzione e ruba la chiave.
+- **Barnaby**: resta a bordo (riscatto) o torna alla sua pace? Filo aperto.
 - Aperti: sorte del **diapason**/Morpheus; nuovo corpo di Sparky; la **visione di Thon**.
 
 ---

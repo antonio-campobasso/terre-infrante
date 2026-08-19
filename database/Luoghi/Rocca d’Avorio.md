@@ -4,3 +4,4 @@ Tipo: Edificio
 Regione:
   - Couronne
 ---
+castello di sacramento

@@ -2,6 +2,8 @@
 base: "[[Insediamenti.base]]"
 Regione:
   - Hale'kai
+Fazione:
+  - Repubblica degli Emir
 ---
 Situata al fulcro della regione marittima di Hale’kai, Scythae è l’isola-mercato che segna il confine tra le acque sorvegliate dalla Marina Reale e i mari del Sud presidiati dai pirati. Poco montuosa, con boscaglia fitta e coste sabbiose, l’isola sfrutta le poche aree pianeggianti per coltivazioni, principalmente di zucchero e tabacco. Le abitazioni sono concentrate per lo più nelle 3 zone portuali dell’isola:
 

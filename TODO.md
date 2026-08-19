@@ -5,26 +5,33 @@
 test
 
 - centauro
-- nagaji
 - samsaran
 - tanuki
-- vanara
-- wayang
 - anadi
 - conrasu (da capire)
 - dragonet
 - ghoran
 - goloma (da capire)
 - jotunborn
-- kashrishi
 - sarangay
-- shisk
 - itarii (strix)
-- [Vishkanya](https://2e.aonprd.com/Ancestries.aspx?ID=56) (legati al deserto con i nagaji)
 - Yaksha
 - yaoguai
-- azarketi (da capire)
-- androidi (da capire)
+- dragonet
+
+rimuovere
+- fetchling
+- kitsune
+- anadi
+- conrasu
+- fleshwarp
+- ghoran
+- goloma
+- poppet
+- shoony
+- skeleton
+- sprite
+- strix
 
 
 lingue

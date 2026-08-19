@@ -112,5 +112,5 @@
 ### Anno [X–Y]: [Nome dell'era/evento]
 [...]
 
-### Anno 729-oggi: [Nome del presente]
+### Anno X-oggi: [Nome del presente]
 [Chiudere sempre con lo stato attuale, agganciato alla Nuova Era e agli eventi condivisi con le altre nazioni del continente.]

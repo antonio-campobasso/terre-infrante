@@ -1,12 +1,20 @@
 > “La Marina ci ha dato leggi senza giustizia, mari senza libertà. Da oggi issiamo la nostra vera bandiera: un teschio per ricordare i nostri morti, due spade per giurare che non ci piegheremo mai. Che ogni cuore ardente si levi con noi: issate le vele, affilate le lame… perché insieme, figli del mare, riprenderemo la nostra casa e spezzeremo le catene degli oppressori.”
-> 
 > —
-> 
 > _Capitano Kael Varn, dichiarazione di guerra alla Marina Imperiale, anno 709 della Nuova Era_
 
 ![[Liria.jpg]]
 # Ambientazione
 **Liria** è una regione marittima dove il mare è il fulcro assoluto dell'esistenza. Dalle acque gelide e nebbiose del nord fino ai flutti caldi e ricchi del sud, Liria è un mosaico di isole che hanno conosciuto l'oppressione imperiale e ora cercano un nuovo, fragile equilibrio. È una terra di contrasti: l'eleganza degli intrighi di corte a Couronne convive con la polvere delle forge di Tripeaks e il misticismo tropicale di Hale’kai. Qui la libertà si conquista con il Legnoferro e si difende con l'acciaio della Marina o l'audacia dei pirati.
+
+## Fazioni
+Liria non ha un solo potere dominante, ma tre modelli di governo che si guardano a distanza e si intrecciano più di quanto vorrebbero ammettere. A Couronne, la Corona di Althéa convive con un'**alta nobiltà** tradizionalista sempre più insofferente verso i mercanti che comprano titoli, e si appoggia sulla **Marina Reale** e sui **corsari** brevettati per proiettare potere oltre l'isola. Ad Hale'kai, la **Repubblica degli Emir** regge un equilibrio fatto di monopoli e rivalità segrete tra dodici case, minacciato dall'interno dall'ascesa di **Reda Akram**, ex pirata che intrattiene legami ambigui con nobili, capitani e persino ufficiali della Marina. A Fjellanag, il collettivista **Sindacato delle Forge** di Tripeaks convive a fatica con una nobiltà imperiale decaduta ormai priva di potere reale e con i **Figli del Gelo**, clan vichinghi che non riconoscono altra legge se non quella del sangue e della battaglia.
+
+Attraversando tutti e tre questi mondi, i **pirati** del Pelago dei Flutti restano l'unica forza che non risponde a nessuna bandiera: eredi sbiaditi dei Liberadores, oggi più legati al Codice Pirata e alla memoria di Kael Varn che a un vero ideale di libertà, capaci comunque di far vacillare rotte commerciali e governi locali quando meno ce lo si aspetta.
+
+## Popolazione
+Liria è un mosaico di popoli dove nessuna cultura domina in modo assoluto, con la parziale eccezione dei **Nani**, che formano il nucleo compatto e coeso delle forge di Tripeaks. Gli **Umani** restano il gruppo più diffuso ma tutt'altro che unito: si dividono tra l'aristocrazia riformata di Couronne, i clan vichinghi di Fjellanag e i mercanti e pescatori sparsi lungo tutto il Pelago dei Flutti, tre modi di intendere il potere e la sopravvivenza che raramente si riconoscono l'uno nell'altro. Ad Hale'kai i **Mashawa** costituiscono la maggioranza, affiancati da una varietà di popoli — Kholo, Catfolk, Lizardfolk e altri — attirati dai traffici della Repubblica degli Emir. I **Zooriadi** — Tengu, Amurrun e simili — sono presenti in numero significativo soprattutto a Couronne, dove il loro fiuto e la loro agilità li rendono ricercati come vedette e corrieri. Gli **Jotunborn**, un tempo integrati grazie al favore imperiale, sopravvivono oggi come reietti nomadi ai margini di Fjellanag, mentre dei **Kawano'i**, primi abitanti di Hale'kai, non restano che rovine sommerse e un'eredità linguistica dissolta nel Valendiano.
+
+Questa varietà non è mai stata frutto di pianificazione, ma di secoli di rotte commerciali, occupazioni e fughe: a Liria convivenza non significa quasi mai armonia, piuttosto un accordo tacito a non calpestarsi troppo i piedi finché il mare continua a garantire profitto a tutti.
 
 ## Regioni
 ### Couronne
@@ -25,7 +33,7 @@ Questo pluralismo si riflette in un panorama linguistico dove la scelta dell'idi
 ![[Lingue.base#Liria]]
 
 ## Costumi e Ricorrenze
-#TODO crea eventi
+#TODO crea eventi sul calendario
 La vita a Liria è scandita da un profondo rispetto per il mare, celebrato come culla della vita e custode della morte. Questa dualità emerge nei riti funebri: quando l'abisso reclama una nave e il suo equipaggio, le comunità affidano al largo scialuppe cariche di preghiere e offerte a **Nymor**, affinché accolga le anime e plachi la sua fame. Ogni benedizione per una nuova chiglia porta con sé il ricordo di chi non è più tornato.
 
 Le celebrazioni della regione riflettono questo equilibrio tra sopravvivenza, fede e memoria politica. L'identità dei diversi popoli si manifesta in giornate solenni come **Il Risveglio del Diadema** a Couronne — che celebra la sovranità ritrovata sotto la Regina Althéa, incoronata a quindici anni dopo il massacro della sua famiglia — o la **Liberazione della Forgia** a Tripeaks, simbolo dell'indipendenza conquistata dal Sindacato dopo aver cacciato i Vartensi e giustiziato i nobili traditori. Nelle ombre, i ribelli mantengono vivo lo spirito della rivolta con la **Veglia di Kael Varn**, un brindisi silenzioso al primo grande capitano dei Liberadores, catturato e torturato pubblicamente per settimane nei Moli delle Viscere di Scythrae, il cui nome è oggi più un mito che un'identità viva.
@@ -39,7 +47,7 @@ Dal punto di vista politico, Liria è un laboratorio di ideologie nate dal croll
 
 Le aree più periferiche di Liria vedono lo scontro tra due modelli di vita opposti. Da un lato ci sono i **vichinghi** di Fjellanag, organizzati in tribù legate a clan, onore di sangue e fedeltà ai Jarl, e convinti che solo chi muore in battaglia possa accedere alle Sale del Banchetto Eterno. Dall'altro, i **pirati** delle isole centrali e meridionali incarnano un'anarchia regolata: non riconoscono nessun padrone e si identificano solo nel **Codice Pirata**, una legge nata dalla libertà condivisa e dalla spartizione del bottino. I più fedeli alla memoria di Kael Varn si riuniscono ancora ad **Owl's Dagger**, una piccola isola rocciosa avvolta da nebbie costanti, dove vige un codice d'onore implicito: chi tradisce viene abbandonato in mare, chi chiede asilo viene ascoltato almeno una volta.
 
-## Magia e Credi
+## Magia e Religione
 La spiritualità liriana non è dogmatica ma elementare: nasce dall'acqua, dal fuoco delle forge e dal vento che gonfia le vele. Al centro di tutto c'è **Nymor, il Dio delle Onde**, venerato ovunque ma con volti profondamente diversi. Al nord è il _Padre del Gelo_, un'entità austera e sacrificale che esige rispetto e punisce chi sopravvaluta le Nebbie di Contrasto; a Couronne è il patrono delle flotte e l'arbitro silenzioso di ogni giuramento marinaro; al sud è il _Cuore del Profondo_, lo spirito benevolo cantato dai Kawano'i nelle nenie che ancora si tramandano tra i porti di Hale'kai, anche se nessuno ne parla più la lingua.
 
 Accanto a Nymor, **Couronne** venera gli **Ascesi** — gli esseri semidivini nati dalla Frattura — con culto particolare verso Seryan, dio delle tempeste e dei cambiamenti, e Thumerin, patrono dei viaggiatori. La fede è vissuta come rito quotidiano più che come imposizione: un brindisi prima di salpare, una moneta offerta al mare prima di un lungo viaggio.
@@ -57,23 +65,23 @@ L'eccellenza nanica nell'idraulica pesante ha trasformato Tripeaks in un capolav
 
 Se il nord eccelle nella meccanica, **Hale'kai** è la capitale mondiale della bio-alchimia. Il popolo Mashawa — abituato da secoli a rendere fertili i suoli aridi con cenere, compost e tecniche ancestrali — ha applicato la stessa ingegnosità ai fondali tropicali, raffinando **alghe medicinali**, coralli e spezie rare in rimedi esportati in ogni angolo delle Terre Infrante. Risorsa simbolo di questa eccellenza è il **vetroverde**, un materiale leggendario raccolto lungo le coste dell'arcipelago che rende Hale'kai il punto di riferimento assoluto per lo studio della natura e della medicina alchemica. Le colline nascondono inoltre **rame e pietre dure**, mentre i fondali custodiscono perle e corallo — risorse che gli Emir si sono storicamente divisi con cura chirurgica per evitare di tornare a farsi la guerra.
 
-## Storia
-### **Anno 0-645: I popoli del mare**
-Un periodo di caos e scoperte. Nelle isole di Hale'kai prosperano i **Kawano'i**, primo popolo dell'arcipelago, che parlano al mare come a un interlocutore e costruiscono città-palafitte tra la marea e il cielo. Al nord, gli **Jotunborn** — discendenti dei giganti fuggiti dalle persecuzioni religiose di Eloran — scoprono le segrete proprietà del **Legnoferro** tra le isole di Fjellanag, scatenando decenni di faide tribali per il controllo delle risorse. I **Mashawa**, giunti dai deserti di Niruta, si insediano progressivamente ad Hale'kai, portando con sé l'agricoltura e la metallurgia. I Kawano'i scompaiono senza spiegazione: nessuna battaglia, nessun esodo, solo un silenzio improvviso, come se si fossero dissolti tra le onde.
+# Storia
+## **Anno 0-645: I popoli del mare**
+Un periodo di caos e scoperte. Nelle isole di Hale'kai prosperano i **Kawano'i**, primo popolo dell'arcipelago, che parlano al mare come a un interlocutore e costruiscono città-palafitte tra la marea e il cielo. Al nord, gli **Jotunborn** — discendenti dei giganti — scoprono le segrete proprietà del **Legnoferro** tra le isole di Fjellanag, scatenando decenni di faide tribali per il controllo delle risorse. I **Mashawa**, giunti dai deserti di Niruta, si insediano progressivamente ad Hale'kai, portando con sé l'agricoltura e la metallurgia. I Kawano'i scompaiono senza spiegazione: nessuna battaglia, nessun esodo, solo un silenzio improvviso, come se si fossero dissolti tra le onde.
 
-### Anno 647-670: L'Ascesa degli Emir e i Primi Pirati
-Con la crescita del commercio hale'kaiano, le case mercantili più potenti si autoproclamano Emir e si combattono per il dominio delle rotte. La guerra logora tutti: nel 653 NE i dodici sopravvissuti più potenti firmano la pace, fondando la **Repubblica degli Emir** e dividendosi le risorse per specializzazione. Chi rimane escluso dall'accordo sceglie la pirateria, dando origine alle prime bande armate nel Pelago dei Flutti.
+## Anno 647-670: L'Ascesa degli Emir e i Primi Pirati
+Con la crescita del commercio hale'kaiano, le case mercantili più potenti si autoproclamano Emir e si combattono per il dominio delle rotte. La guerra logora tutti: nel 653 i dodici sopravvissuti più potenti firmano la pace, fondando la **Repubblica degli Emir** e dividendosi le risorse per specializzazione. Chi rimane escluso dall'accordo sceglie la pirateria, dando origine alle prime bande armate nel Pelago dei Flutti.
 
-### Anno 654-715: L'Occupazione Imperiale
+## Anno 654-715: L'Occupazione Imperiale
 L'Impero Vartense conquista Liria per controllarne il Legnoferro e le rotte marittime, costruisce la Marina Imperiale e impone dazi e militarizzazione dei porti. A Tripeaks sigla il **Patto dell'Aquila**, riconoscendo l'autonomia nanica in cambio di tributi vantaggiosi. L'occupazione porta sviluppo infrastrutturale ma anche sfruttamento: i ritmi massacranti delle forge, il controllo sulle rotte di Hale'kai, la riduzione degli Emir a intermediari subalterni.
 
-### Anno 709-715: I Liberadores e la Nascita della Resistenza
+## Anno 709-715: I Liberadores e la Nascita della Resistenza
 Nel 709 NE, il capitano **Kael Varn** issa per la prima volta la bandiera con il teschio e le spade incrociate, dichiarando guerra aperta alla Marina Imperiale. Nato come movimento ideale di libertà, il suo gruppo — i **Liberadores** — ispira isole intere a dichiarare l'indipendenza e diventa la forza navale della futura Alleanza anti-imperiale. Nel 715 NE, Kael Varn viene catturato. La sua esecuzione pubblica, una lunga tortura durata settimane nei **Moli delle Viscere** di Scythrae, si conclude nel silenzio attonito dei porti. Da quel momento, il nome _Liberador_ diventa più un mito che un'identità viva.
 
-### Anno 715-726: La Guerra delle Mezze Lame
+## Anno 715-726: La Guerra delle Mezze Lame
 Con la morte di Kael Varn esplode la guerra su scala continentale. A Fjellanag, la nobile _Casata Duskborne_ tradisce Tripeaks aprendo i porti alle armate vartensi. Nel 723 NE i nani organizzano uno sciopero monumentale che paralizza i cantieri imperiali: la repressione è brutale, ma i sabotatori riescono a spegnere i fari magici costieri. Sfruttando le **Nebbie di Contrasto**, la flotta dell'Alleanza approda a Tripeaks, caccia i Vartensi e giustizia i traditori. L'arcipelago si riorganizza nel **Sindacato delle Forge** e diventa il vero arsenale della rivolta. A Couronne, il Re Carlos — ormai disperato — ordina alla Marina di abbassare le armi e lasciar passare le forze della Resistenza nel porto di Sacramento. Gli agenti imperiali lo scoprono: in una notte di sangue, massacrano il re, la regina e gran parte della corte. Sopravvive solo la giovane principessa Althéa.
 
-### Anno 729-Oggi: Il Presente
+## Anno 729-Oggi: Il Presente
 L'equilibrio del sale. Althéa regna a Couronne, governando con riforme popolari e una Marina trasformata da strumento di oppressione in corpo d'élite meritocratico. Il Sindacato controlla Tripeaks e domina il commercio navale globale. Hale'kai fiorisce, ma il fragile equilibrio della Repubblica degli Emir è messo alla prova dall'ascesa di **Reda Akram** a Scythrae, ex pirata autoproclamatosi Emir nel 740 NE con un colpo di stato, la cui rete di contatti si estende pericolosamente tra nobili di Couronne, pirati del Pelago e ufficiali della Marina Reale. A nord, senza le flotte imperiali a pattugliare i confini, le incursioni vichinghe sono riprese con ferocia inaudita, costringendo i governatori umani delle isole minori di Fjellanag a implorare la protezione della Regina Althéa, aprendo di fatto la regione alle mire politiche di Couronne. Gli **Jotunborn**, già complici del regime per necessità, sono stati nuovamente emarginati come _collaboratori del Tiranno_, cacciati dai cantieri e ridotti a reietti nomadi.
 
 # Generatore di Background
@@ -90,7 +98,6 @@ _Tira i dadi indicati per ogni sezione, oppure scegli liberamente le voci che pi
 ---
 
 ## 2. Origine — Status e Affiliazioni (1d6)
-
 _Seleziona la tabella corrispondente alla tua Provenienza._
 ### Couronne
 

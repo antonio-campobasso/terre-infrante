@@ -6,6 +6,8 @@ properties:
     displayName: Name
   Regione:
     displayName: Regione
+  Fazione:
+    displayName: Fazione
 views:
   - type: table
     name: Table View
@@ -17,12 +19,68 @@ views:
     filters:
       and:
         - Regione.contains("Couronne")
-    order:
-      - file.name
   - type: table
     name: Hale'kai
     filters:
       and:
         - Regione.contains("Hale'kai")
   - type: table
-    name: View
+    name: Fjellanag
+    filters:
+      and:
+        - Regione.contains("Fjellanag")
+  - type: table
+    name: Marina Reale
+    filters:
+      and:
+        - Fazione.contains("Marina Reale")
+  - type: table
+    name: Corsari
+    filters:
+      and:
+        - Fazione.contains("Corsari")
+  - type: table
+    name: Repubblica degli Emir
+    filters:
+      and:
+        - Fazione.contains("Repubblica degli Emir")
+  - type: table
+    name: Pirati
+    filters:
+      and:
+        - Fazione.contains("Pirati")
+  - type: table
+    name: Sindacato delle Forge
+    filters:
+      and:
+        - Fazione.contains("Sindacato delle Forge")
+  - type: table
+    name: Figli del Gelo
+    filters:
+      and:
+        - Fazione.contains("Figli del Gelo")
+  - type: table
+    name: Nobiltà Occidentale
+    filters:
+      and:
+        - Fazione.contains("Nobiltà Occidentale")
+  - type: table
+    name: Covata Reale
+    filters:
+      and:
+        - Fazione.contains("Covata Reale")
+  - type: table
+    name: Drakkari
+    filters:
+      and:
+        - Fazione.contains("Drakkari")
+  - type: table
+    name: Gilda degli Avventurieri
+    filters:
+      and:
+        - Fazione.contains("Gilda degli Avventurieri")
+  - type: table
+    name: Legione di Bronzo
+    filters:
+      and:
+        - Fazione.contains("Legione di Bronzo")

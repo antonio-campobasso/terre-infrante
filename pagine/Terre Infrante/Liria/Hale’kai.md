@@ -1,13 +1,12 @@
 > “Stelle del cielo, il mare riposa, Onde tranquille, bambino del sale. Astri splendenti, acque celesti, Dormi sereno, dormi al suono del mare.
 > Cuore del profondo, cuore del profondo, Onda lucente, grazia del profondo. Cuore del profondo, cuore splendente, Dormi sereno, figlio del profondo.
 > Sogni di corallo, rossi e dorati, Nel cuore dell'onda, cullato piano. Dono del cielo, acque dei sogni, Cuore dell'onda, cuore del profondo.“
-> 
 > —
-> 
 > Antica canzone dei Kawano’i
 
 ![[Scorcio di un’isola dell’arcipelago di Maco.jpg]]
 Scorcio di un’isola dell’arcipelago di Maco
+
 # Caratteristiche
 
 ## Le Rotte dell’Oro
@@ -37,64 +36,96 @@ Tra le numerose fazioni che popolano Hale’kai, spicca per influenza e longevit
 
 Ogni Emīr rappresenta un’arca di potere economico, con radici profonde in una o più isole dell’arcipelago. Le decisioni vengono prese attraverso lunghi consigli, spesso dominati da trattative serrate, scambi di favori e rivalità antiche quanto le rotte stesse.
 
-### Pirati
-I pirati del Pelago dei Flutti non rispondono a nessuna legge, né vivono secondo un ordine comune. Sono ciurme nomadi, slegate da qualsiasi terra o bandiera, e sopravvivono grazie a saccheggi, mercati neri e favori scambiati tra fuorilegge.
+I pirati del Pelago dei Flutti non rispondono a nessuna legge, né vivono secondo un ordine comune. Sono ciurme nomadi, slegate da qualsiasi terra o bandiera, e sopravvivono grazie a saccheggi, mercati neri e favori scambiati tra fuorilegge. Eppure esiste un luogo che tutti rispettano: **Owl’s Dagger**, una piccola isola rocciosa seminascosta da nebbie costanti, considerata la **roccaforte pirata** del Pelago. Qui non esistono regole scritte, ma vige un **codice d’onore implicito**: chi tradisce viene abbandonato in mare, chi chiede asilo viene ascoltato almeno una volta, e chi porta ricchezza riceve protezione.
 
-Eppure esiste un luogo che tutti rispettano: **Owl’s Dagger**, una piccola isola rocciosa seminascosta da nebbie costanti, considerata la **roccaforte pirata** del Pelago. Qui non esistono regole scritte, ma vige un **codice d’onore implicito**: chi tradisce viene abbandonato in mare, chi chiede asilo viene ascoltato almeno una volta, e chi porta ricchezza riceve protezione.
+### Forze Armate
+Hale'kai non possiede una marina unificata: ogni Emīr arma e mantiene la propria flotta privata, un misto di galeoni mercantili riconvertiti, guardie portuali e mercenari assoldati stagione per stagione. La sicurezza dei grandi scali è affidata più alla Marina Reale di Couronne, che pattuglia le rotte principali in cambio di dazi favorevoli, che a una vera forza armata locale. Nelle acque minori, dove la Corona non arriva, sono le stesse ciurme pirata — o i corsari privati assoldati dagli Emir per tenerle a bada — a fare da unico deterrente. Non è raro che sia lo stesso **Reda Akram** a offrire i propri mercenari come scorta armata agli Emir in difficoltà: un servizio pagato in oro, ma soprattutto in favori che raramente restano tali per molto tempo.
 
 ![[Fazioni.base#Hale'kai]]
 
+---
 # Geografia
-Hale’kai è una **costellazione di isole e atolli tropicali** che punteggiano il cuore del **Pelago dei Flutti**. Le terre emerse alternano distese pianeggianti lambite dal mare e alture rocciose che si ergono come bastioni contro il vento., con **spiagge sabbiose**, **foreste costiere**, e **rocce laviche ricoperte di vegetazione**.
-
-Le tempeste possono formarsi in poche ore, con piogge torrenziali e raffiche che capovolgono le canoe meno esperte. Tuttavia, il clima resta in gran parte **caldo e umido**, con stagioni scandite più dal ritmo del mare che dal cielo.
+Hale’kai è una **costellazione di isole e atolli tropicali** che punteggiano il cuore del **Pelago dei Flutti**. Le terre emerse alternano distese pianeggianti lambite dal mare e alture rocciose che si ergono come bastioni contro il vento, con **spiagge sabbiose**, **foreste costiere**, e **rocce laviche ricoperte di vegetazione**.
 
 I **fondali sprofondano rapidamente**, rendendo i porti naturali rari ma profondi. **Barriere coralline** avvolgono le isole come corone vive, pullulanti di vita marina e misteri sommersi. Le rotte tra un’isola e l’altra richiedono perizia e intuizione, poiché le correnti cambiano spesso direzione, guidate da forze che nemmeno i Kawano’i hanno mai del tutto compreso.
 
+## Clima
+Le tempeste possono formarsi in poche ore, con piogge torrenziali e raffiche che capovolgono le canoe meno esperte. Il clima resta comunque in gran parte caldo e umido, con stagioni scandite più dal ritmo del mare che dal cielo: le vere emergenze non arrivano col cambio di stagione, ma con l'imprevedibilità del Pelago stesso.
+
 ![[Luoghi.base#Hale'kai]]
 
+---
 # Insediamenti
-
 Le isole di Hale’kai sono scarse di terraferma pianeggiante, e gli insediamenti fissi restano piccoli e sparsi. La maggior parte della popolazione vive in porti modesti o, più spesso, direttamente sulle proprie imbarcazioni, vere e proprie case galleggianti e basi commerciali mobili. I villaggi si aggrappano alle coste rocciose, con magazzini, taverne e mercati all’aperto dove si svolgono gli scambi.
+
+## Architettura
+L'architettura di Hale'kai eredita, spesso senza saperlo, le soluzioni dei Kawano'i: palafitte in legno e canna che si allungano sull'acqua bassa, passerelle sospese tra un'abitazione e l'altra, tetti spioventi pensati per le piogge improvvise più che per il freddo. I Mashawa hanno aggiunto tecniche proprie — intonaci a base di corallo macinato, tende intrecciate che sostituiscono le pareti nei mesi più caldi — creando villaggi che sembrano crescere dalla costa più che esservi costruiti sopra. Nei porti maggiori, magazzini su palafitte e moli mobili permettono di spostare interi mercati con la marea, mentre le dimore degli Emir, più stabili e in pietra corallina, si ergono come isole di permanenza in un paesaggio abituato a rifarsi ogni stagione.
 
 ![[Insediamenti.base#Hale'kai]]
 
+---
 # Profilo
+## Politica ed Economia
 
-## Governo
+### Commerci
+Hale'kai è un nodo vitale del commercio internazionale: spezie rare, gemme, sete, veleni, artefatti magici e persino mercenari — tutto passa per i suoi porti. Le esportazioni principali restano le alghe medicinali, il vetroverde e le spezie coltivate sulle colline fertili; le importazioni vitali sono invece metalli, grano e animali da soma, quasi del tutto assenti sull'arcipelago. Nessuna merce è proibita, purché frutti oro, e il contrabbando è talmente diffuso da essere ormai indistinguibile dal commercio legale in molte isole minori.
+
+### Economia
+Ogni isola è un mercato a sé stante, e ogni Emīr ha i propri monopoli e accordi segreti su una risorsa o una rotta specifica — un sistema nato per evitare che la guerra dei Mercanti si ripetesse. La Repubblica degli Emir regge un equilibrio fragile ma redditizio: le famiglie si controllano a vicenda più che collaborare, e la ricchezza dell'arcipelago dipende dalla capacità di ciascun Emīr di mantenere la propria fetta senza scatenare i vicini.
+
+### Governo
 Nessun governo, nessuna regola. Ogni **Emir** domina il proprio territorio come un sovrano indipendente, rispondendo solo al potere delle ricchezze e delle alleanze. Tuttavia, vige una tacita aspettativa: ogni Emīr è responsabile del benessere e della sicurezza delle isole sotto il suo controllo. Alcuni amministrano come protettori illuminati, altri con pugno di ferro, ma tutti sanno che il potere si mantiene solo finché il popolo e i mercanti lo tollerano.
 
-## Leggi
+### Leggi
 La giustizia è **locale** e spesso arbitraria: cambia da isola a isola, da porto a porto. In alcune città si tengono veri e propri tribunali, in altre basta una parola dell’Emir per condannare o salvare una vita. Negli ultimi anni, però, sempre più governanti hanno iniziato a uniformarsi a Couronne, specialmente sul tema della pirateria: essere scoperti a depredare rotte commerciali comporta la **pena di morte** o, nella migliore delle ipotesi, la schiavitù a vita nei cantieri navali.
 
-## Economia
-La Repubblica degli Emīr è un nodo vitale del **commercio internazionale**: spezie rare, gemme, sete, veleni, artefatti magici e mercenari — tutto passa per Hale’kai. Ogni isola è un mercato a sé stante, e ogni Emīr ha i propri monopoli e accordi segreti. L'importazione è altrettanto centrale, poiché molte materie prime — metalli, grano, animali da soma — sono scarse o assenti. Nessuna merce è proibita, purché frutti oro.
-
-## Popolazione
-**Variegata come le merci nei bazar**, Hale’kai è una delle poche regioni in cui gli umani non sono la maggioranza. Nani, elfi, goblin, **Kholo**, **Catfolk**, **Lizardfolk**, **Athamaru** e altri ancora convivono, commerciando, discutendo e mescolando le proprie culture. Chi decide di restare lascia un’impronta: nella cucina, nella lingua, nei riti. È un crocevia vivo, mutevole, come il mare che lo circonda.
-
-## Rapporti
+### Rapporti
 I porti di Hale’kai sono sempre aperti a chi porta buoni affari. **Couronne**, **Veldrahn**, **Andorin** e persino le lontane terre d’Oriente commerciano attivamente con la Repubblica degli Emir. Le rotte attraverso il Mare Stretto sono affollate, e molte navi portano merci esotiche di ritorno. Tutti apprezzano la qualità e la varietà delle merci.
 
-## Religione
-Sebbene i **Mashawa** abbiano portato con sé culti più oscuri e filosofie criptiche, non hanno mai messo radici a Hale’kai. Il culto di **Nymor**, l’antico dio delle Onde e del Vento, è ancora il più sentito: gli altari sono spesso costruiti tra le rocce costiere o direttamente sulle navi. Accanto a lui, si trovano spesso forme di spiritualità più **naturalistiche**, legate agli elementi, alle maree, al sole e alla luna. I pellegrinaggi avvengono in mare, non sulla terra.
+## Sapere e Fede
 
-## Magia
+### Istruzione
+Non esistono accademie formali ad Hale'kai: il sapere si tramanda per bottega e per bordo. I figli degli Emir imparano fin da piccoli a leggere le rotte commerciali, i tassi di cambio e il linguaggio non detto della contrattazione, spesso affiancando il padre o la madre nei consessi mercantili. Tra il popolo, l'istruzione è pratica e orale: gli anziani pescatori insegnano a leggere le correnti e i venti, gli sciamani Mashawa tramandano rimedi e rituali per via diretta, e le rare iscrizioni kawano'i ancora leggibili vengono studiate da pochi appassionati più per curiosità che per necessità.
+
+### Magia
 La **magia formale è rara**, e le accademie sono inesistenti. Gli **incantatori addestrati** sono pochi, ma gli **oggetti magici** circolano facilmente, spesso provenienti da arche perdute o da trafficanti orientali. Più comuni sono i **druidi**, gli sciamani e i praticanti di antiche **forme di elementalismo** che si tramandano per via orale. Il mare, il vento e la pietra sono gli elementi più invocati.
 
-## Tecnologia
+### Religione
+Sebbene i **Mashawa** abbiano portato con sé culti più oscuri e filosofie criptiche, non hanno mai messo radici a Hale’kai. Il culto di **Nymor**, l’antico dio delle Onde e del Vento, è ancora il più sentito: gli altari sono spesso costruiti tra le rocce costiere o direttamente sulle navi. Accanto a lui, si trovano spesso forme di spiritualità più **naturalistiche**, legate agli elementi, alle maree, al sole e alla luna. I pellegrinaggi avvengono in mare, non sulla terra.
+
+### Tecnologia
 La tecnologia di **Veldrahn** ha trovato spazio nei porti principali, soprattutto nella forma di **armi da fuoco** e meccanismi di difesa. Ma fuori da queste enclave, la gente di Hale’kai resta **tradizionalista**: predilige il legno, la vela, le corde e la conoscenza tramandata dai vecchi marinai. L’unica vera eccezione è la **polvere da sparo**, usata per proteggere le rotte e marcare la propria supremazia in mare.
 
----
+## Società e Cultura
 
+### Abbigliamento
+Il clima caldo e umido impone tessuti leggeri e ampi: tuniche e sarong colorati con tinture vegetali mashawa, spesso impreziositi da motivi che raccontano la casa mercantile o la famiglia di appartenenza. Gli Emir e i loro entourage sfoggiano sete importate, gioielli di corallo e perla, copricapi elaborati che segnalano rango a colpo d'occhio in un mercato affollato. I pirati del Pelago, al contrario, vestono un assortimento eclettico di capi rubati, riadattati e sovrapposti senza alcuna coerenza — un'anarchia estetica che è essa stessa dichiarazione d'identità.
+
+### Arte
+L'arte di Hale'kai si esprime soprattutto in ciò che si può portare o vendere: tessuti Mashawa tinti con pigmenti vegetali in motivi che raccontano casata e mestiere, intagli in corallo e conchiglia, tamburi e strumenti a corda costruiti con legni leggeri e pelle di pesce essiccata. Le ballate piratesche, nate quasi per gioco nelle taverne portuali, sono diventate un genere a sé: raccontano imprese vere ingigantite fino all'assurdo, e cambiano testo da un porto all'altro a seconda di chi le canta.
+
+### Cucina
+La cucina hale'kaiana è la più speziata di Liria. Pesce marinato negli agrumi e nelle spezie locali, riso condito con curry di produzione mashawa, frutta tropicale colta a ogni angolo di strada, pesce fritto servito direttamente su foglie di banano nei mercati: qui si mangia in piedi, tra un affare e l'altro. Le bevande fermentate a base di canna e frutta locale accompagnano quasi ogni pasto, e nei porti dei pirati circolano distillati più forti e meno raffinati, spesso scambiati come merce di contrabbando essa stessa.
+
+### Festività
+Il calendario di Hale'kai è scandito dal mare e dai suoi umori. La Notte delle Lanterne porta la spiritualità Mashawa a illuminare le coste: migliaia di piccole lanterne di carta oleata vengono affidate alla corrente per onorare gli spiriti dell'acqua, in un rituale che i più anziani dicono discendere — pur senza prove — dalle usanze kawano'i. La Caccia al Leviatano (mese di Rodendron) è invece una festa rumorosa: i pescatori portano a riva le creature più bizzarre pescate durante l'anno, si frigge pesce per le strade fino all'Ora del Pipistrello e si cantano ballate piratesche senza troppo curarsi di chi le abbia scritte. Quando arriva la Settimana del Grande Sale, ad Hale'kai assume i toni epici del Trofeo degli Abissi Voraci: i cacciatori di mostri si spingono nei fondali più profondi per tornare con trofei che diventeranno leggenda nelle taverne per anni. Nell'ombra, lontano dai porti principali, alcune ciurme fedeli alla memoria della resistenza si riuniscono ancora per la Veglia di Kael Varn, un brindisi silenzioso celebrato ad Owl's Dagger e in poche altre isole minori.
+
+### Lingua
+Il Mashawa è la lingua quotidiana di Hale'kai, insieme al Comune, parlata nei mercati e nei consessi degli Emir in alternanza al Valendiano — la lingua franca del mare, nata dall'incontro tra i marinai di Couronne e i mercanti locali. Nei canti di porto e nei nomi degli atolli sopravvivono ancora tracce del Thalassico, l'antica lingua dei Kawano'i: nessuno la parla più, ma alcuni marinai giurano che certe iscrizioni nelle grotte sommerse vicino a Maco rispondano ancora, se pronunciate con il tono giusto.
+
+### Popolazione
+**Variegata come le merci nei bazar**, Hale’kai è una delle poche regioni in cui gli umani non sono la maggioranza. Nani, elfi, goblin, **Kholo**, **Catfolk**, **Lizardfolk**, **Athamaru** e altri ancora convivono, commerciando, discutendo e mescolando le proprie culture. Chi decide di restare lascia un’impronta: nella cucina, nella lingua, nei riti. È un crocevia vivo, mutevole, come il mare che lo circonda.
+
+### Tradizioni
+La contrattazione è quasi una forma d'arte: un affare chiuso troppo in fretta è visto con sospetto, non con sollievo. Gli Emir si scambiano doni cerimoniali prima di ogni accordo importante, un'usanza che sopravvive anche quando i rapporti sono tesi. Tra i pescatori è comune lasciare piccole offerte di corallo o conchiglia sugli altari costieri dedicati a Nymor prima di ogni battuta di pesca importante, e rifiutare l'ospitalità di un padrone di casa — anche uno sconosciuto — è considerato un affronto quasi quanto rompere un patto commerciale.
+
+---
 # Storia
 
 ### Anno 0–376: Le isole dopo la Frattura
 Dopo la Frattura, fu il popolo dei **Kawano’i** a insediarsi per primo nelle terre che si affacciavano sul **Pelago dei Flutti**. Si racconta che vivessero in simbiosi con le acque, conoscendo i segreti delle correnti, dei venti e delle creature marine. Si spostavano tra le isole su tavole e canoe essenziali, ma con un'abilità quasi soprannaturale: cavalcavano onde e burrasche come fossero strade d’acqua. Le loro città-palafitte si fondevano con il paesaggio tropicale, e ogni costruzione sembrava danzare con la marea.
 
 Poi, **scomparvero**. Nessuno sa come o perché. Alcuni dicono che seguirono una voce nel profondo dell’oceano, altri che tentarono di placare un male antico e fallirono. Le loro rovine rimangono sparse tra le isole, scolpite nella pietra coralli, statue corrose dal sale e simboli dimenticati. Della loro lingua, simile al Thalassico parlato dagli elementali dell’acqua, rimangono solo incisioni su tavolette d'ardesia custodite nei templi sommersi. Si sa che i Kawano’i condividevano le isole con altre comunità, esploratori o esuli che si fermavano attratti dal clima mite e dalla ricchezza del mare, ma fu il loro legame unico con le acque a lasciarne l’impronta più profonda.
-
----
 
 ### Anno 377–419: L’Oscurità Abissale e i Penjaga
 Dopo la scomparsa dei Kawano’i, emersero dalle profondità le **creature abissali**. Alcuni sostengono che siano stati proprio loro a causarne la fine; altri, al contrario, credono che i Kawano’i li tenessero lontani, e che la loro sparizione abbia lasciato un varco aperto. I mostri – noti come **Leviatani** – erano antichi Spiriti Guardiani del mare, corrotti da Astaroth durante l’Era dell’Eclissi e rifugiatisi negli abissi dopo la Frattura per sfuggire agli scontri tra le divinità. Con il tempo, la loro fame e corruzione li spinsero a emergere.
@@ -105,16 +136,12 @@ Fu in quel tempo che giunsero da **Suryana**, a oriente, gli enigmatici **Penjag
 
 Una volta compiuta la loro missione, i Penjaga **ritornarono a Suryana**, lasciando solo pochi artefatti e storie tramandate tra i naviganti.
 
----
-
 ### Anno 420–646: L’Insediamento dei Mashawa
 Con il mare finalmente sicuro, ricominciarono i viaggi. Dalle terre desertiche di **Niruta**, a est di Hale’kai, arrivarono i **Mashawa**, un popolo nomade temprato da sabbia e privazioni. Portarono con sé l’arte dell’agricoltura e della metallurgia, adattando le loro tecniche alle isole con straordinaria abilità. Abituati a trarre frutto da terre aride, riuscivano a rendere fertili anche i suoli costieri di Hale’kai, arricchendoli con cenere, compost e tecniche tramandate da generazioni.
 
 I villaggi iniziarono a prosperare. Le isole divennero crocevia di scambi: artigiani mashawa incontrarono marinai provenienti da **Couronne**, i cui velieri portarono oggetti e tecnologie come polvere da sparo, carte nautiche, utensili in acciaio temprato e strumenti di navigazione. In cambio, i mercanti della regione offrirono **spezie pungenti**, **tessuti intrecciati a mano**, **oggetti magici locali**, e rarità esotiche intrise di mistero.
 
 Nonostante la fioritura commerciale, le lingue rimasero distinte. Tuttavia, una nuova lingua iniziò a diffondersi nei porti: il **Valendiano**, parlato dai marinai di Couronne, che nel tempo venne influenzato dal Mashawa, dal Thalassico e da innumerevoli dialetti delle isole. Una lingua fluida, adattabile come le correnti.
-
----
 
 ### Anno 647–671: La guerra dei Mercanti
 La ricchezza cambiò gli equilibri. I mercanti più influenti cominciarono a proclamarsi “**Emir”, maestri del commercio e della navigazione**, e tra il 647 e il 653 iniziarono a combattersi per il dominio delle rotte, dei porti e delle miniere sottomarine. Tuttavia, la guerra logorò le risorse di tutti, e più di 50 Emir che solcavano il Pelago dei Flutti, furono vittime di violenti scontri navali. Nel 653 si giunse a un accordo: i dodici Emir più potenti si riconobbero a vicenda e **fondarono un patto commerciale noto come la Repubblica degli Emir**.
@@ -125,38 +152,30 @@ Ma non tutti accettarono questa pace. Molti Emir sconfitti o esiliati si diedero
 
 Nel 669, i pirati lanciarono un assalto audace: attaccarono **Thaurenai**, una colonia di Couronne, saccheggiando e incendiando le navi ancorate nel porto. Fu un affronto che **scatenò una faida decennale tra i pirati e Couronne**. Molti Emir si affrettarono a **ingraziarsi i nobili reali**, offrendo protezione, tributi e accesso preferenziale ai porti, nel tentativo di assicurarsi la tutela della Marina e dissociarsi apertamente dai predoni del sud.
 
----
-
 ### Anno 671-709: Conquistatori e Liberatori
-Quando Couronne diviene alleata dell’Impero, le pressioni economiche e militari si fanno sempre più intense. La Marina impone un pesante controllo sulle rotte marittime, monopolizzando i commerci degli Emir. Le navi non allineate venivano tassate duramente e sorvegliate dalla marina, soprannominata dai locali _Conquistadores_ per l’arroganza e il pugno di ferro con cui trattavano la popolazione.
+Quando Couronne diviene alleata dell’Impero, le pressioni economiche e militari si fanno sempre più intense. La Marina impose un pesante controllo sulle rotte marittime, monopolizzando i commerci degli Emir. Le navi non allineate venivano tassate duramente e sorvegliate dalla marina, soprannominata dai locali _Conquistadores_ per l’arroganza e il pugno di ferro con cui trattavano la popolazione.
 
 Molti marinai, prima liberi o autonomi, vengono obbligati a servire la causa imperiale, occupando territori costieri e isole precedentemente indipendenti. Diverse isole della regione di Hale’Kai, governate localmente dagli Emir, vengono inglobate in Couronne, sottomesse alla corona e indirettamente all’Impero. Le tradizioni locali iniziano a scomparire, i porti vengono militarizzati, e i traffici interni controllati rigidamente.
 
 Ma nel sud, un gruppo di navigatori decide di ribellarsi. Guidati dal carismatico Kael Varn, issano per primi la bandiera dei _Liberadores_, il teschio con le spade incrociate, e iniziano a colpire le rotte imperiali, recuperando risorse e ridistribuendole tra i popoli oppressi. Le sue imprese audaci e il suo spirito ribelle ispirano numerose isole del sud a dichiarare l'indipendenza. In breve tempo, la marina si trova a dover affrontare una crescente flotta di pirati che minano il suo controllo: non più saccheggiatori disorganizzati, ma una vera forza ribelle con un ideale.
 
----
-
 ### Anno 710-715: La stretta della Corona
-L’Impero reagisce con forza crescente. Le autorità dichiarano che fino ad allora avevano solo "preservato l’ordine", ma ora passeranno all’attacco diretto. La Marina – ora ufficialmente _Marina Imperiale_ – inizia una campagna di riconquista feroce, occupando territori chiave, compresa una parte della regione di Veldrhan nel continente di **Zethana**, per bloccare il commercio di polvere da sparo e altri beni essenziali verso i _Liberadores_.
+L’Impero reagisce con forza crescente. Le autorità dichiarano che fino ad allora avevano solo "preservato l’ordine", ma da quel momento sarebbero passati all’attacco diretto. La Marina – ora ufficialmente _Marina Imperiale_ – inizia una campagna di riconquista feroce, occupando territori chiave, compresa una parte della regione di Veldrhan nel continente di **Zethana**, per bloccare il commercio di polvere da sparo e altri beni essenziali verso i _Liberadores_.
 
 Kael Varn venne catturato. La sua esecuzione, una lunga tortura pubblica che dura settimane, si conclude nel 715 nei **Moli delle Viscere** di Scythrae, come monito per scoraggiare ogni ulteriore rivolta. Le sue urla, si dice, risuonarono per giorni tra i vicoli del porto, lasciando un’ombra oscura sulla città.
 
-L’Impero, nel frattempo, intensifica l’uso della magia a bordo delle navi: incantatori formati dall’Accademia Imperiale vengono integrati nei ranghi della marina. Le flotte ribelli si trovano a combattere non solo contro navi corazzate, ma contro tempeste evocate, palle di fuoco e muri d’acqua. I territori liberi si riducono drasticamente, fino a comprendere solo Owl’s Dagger, remota e difendibile, e poche altre isole nella barriera delle Chiglie.
+L’Impero, nel frattempo, intensificò l’uso della magia a bordo delle navi: incantatori formati dall’Accademia Imperiale vengono integrati nei ranghi della marina. Le flotte ribelli si trovano a combattere non solo contro navi corazzate, ma contro tempeste evocate, palle di fuoco e muri d’acqua. I territori liberi si riducono drasticamente, fino a comprendere solo Owl’s Dagger, remota e difendibile, e poche altre isole nella barriera delle Chiglie.
 
-Nel caos lasciato dalla morte di Kael, prende forma una nuova minaccia per l’Impero: l’_Alleanza_, una fazione esterna nata per opporsi al dominio imperiale su scala più ampia, con interessi e conflitti che vanno ben oltre la regione marittima. La _Guerra delle Mezze Lame_ esplode nel 715, quando l’Alleanza dichiara ufficialmente guerra all’Impero. In questa nuova cornice bellica, i ribelli marittimi diventano alleati strategici, anche se mal sopportati da alcune frange più disciplinate dell’Alleanza.
-
----
+Nel caos lasciato dalla morte di Kael, prende forma una nuova minaccia per l’Impero: l’_Alleanza_, una fazione esterna nata per opporsi al dominio imperiale su scala più ampia, con interessi e conflitti che vanno ben oltre la regione marittima. La _Guerra delle Mezze Lame_ esplose nel 715, quando l’Alleanza dichiarò ufficialmente guerra all’Impero. In questa nuova cornice bellica, i ribelli marittimi diventano alleati strategici, anche se mal sopportati da alcune frange più disciplinate dell’Alleanza.
 
 ### Anno 716-726: Contrattacco pirata
-L’Alleanza fornisce ai pirati risorse, navi e mercenari — spesso criminali, esuli o idealisti radicali — per rafforzare la resistenza nella regione. Tuttavia, il messaggio originario di libertà e giustizia di Kael Varn si dissolve progressivamente, schiacciato da un pragmatismo brutale. Solo una parte dei ribelli, i più fedeli alla sua memoria, continua a chiamarsi _Liberadores_. Questo nome viene usato sempre meno, relegato a piccoli circoli ideologici che non si riconoscono nella nuova forza caotica e opportunista promossa dall’Alleanza. La Marina Imperiale non li ha mai riconosciuti come tali: per loro erano e restano semplicemente _pirati_. Anche oggi, è raro che qualcuno si definisca ancora _Liberador_; è diventato più un mito che un’identità viva.
+L’Alleanza fornì ai pirati risorse, navi e mercenari — spesso criminali, esuli o idealisti radicali — per rafforzare la resistenza nella regione. Tuttavia, il messaggio originario di libertà e giustizia di Kael Varn si dissolse progressivamente, schiacciato da un pragmatismo brutale. Solo una parte dei ribelli, i più fedeli alla sua memoria, continuò a chiamarsi _Liberadores_. Questo nome viene usato sempre meno, relegato a piccoli circoli ideologici che non si riconoscono nella nuova forza caotica e opportunista promossa dall’Alleanza. La Marina Imperiale non li ha mai riconosciuti come tali: per loro erano e restano semplicemente _pirati_. Anche oggi, è raro che qualcuno si definisca ancora _Liberador_; è diventato più un mito che un'identità viva.
 
 Nel 726, dopo una lunga serie di battaglie navali, le forze congiunte dell’Alleanza e dei pirati riescono a occupare i porti della capitale marittima di Couronne: **Sacramento**. Di fronte all’impossibilità di riconquistare il controllo navale e per evitare distruzioni ulteriori, il re di Couronne dichiara la resa pacifica. Questo evento segna la fine effettiva del controllo marittimo dell’Impero nella regione e inaugura una nuova fase di frammentazione politica e instabilità commerciale.
-
----
 
 ### Anno 729-oggi: Acque calme
 Con l’Impero costretto a ritirarsi e la guerra ormai conclusa, la _Repubblica degli Emir_ torna a prosperare. Le città portuali si riorganizzano, il commercio rifiorisce, e nuovi accordi vengono stretti. Molti Emir si erano inizialmente schierati con i pirati, ma al cessare del conflitto decisero di riallinearsi con Couronne, ora meno oppressiva e più aperta al dialogo sotto il governo della Regina Althèa, salita al trono per ricostruire il tessuto sociale dilaniato dalla guerra.
 
-I pirati, considerati traditi, riprendono le ostilità con attacchi isolati. In risposta, Couronne riforma la _Marina Reale_, mantenendo una presenza navale significativa per proteggere le rotte commerciali. Gli Emir si ritrovano nel mezzo, cercando di sopravvivere tra le pressioni della Corona e le minacce dei pirati, in un fragile equilibrio che spesso degenera in crisi locali.
+I pirati, considerati traditi, riprendono le ostilità con attacchi isolati. In risposta, Couronne riformò la _Marina Reale_, mantenendo una presenza navale significativa per proteggere le rotte commerciali. Gli Emir si ritrovano nel mezzo, cercando di sopravvivere tra le pressioni della Corona e le minacce dei pirati, in un fragile equilibrio che spesso degenera in crisi locali.
 
-Nel 740, un ex pirata di nome **Reda Akram** prende il potere a Scythrae con un colpo di stato contro gli ex nobili imperiali, invisi sia al popolo che alla corona. Reda si autoproclama Emir dei vizi e del sangue, ma non è riconosciuto dagli altri governanti, che lo considerano un usurpatore. Si muove agilmente tra politica e affari, mantenendo contatti sia con i nobili di Couronne, sia con i capitani pirati del sud — c’è chi mormora che abbia persino trattato con ufficiali della Marina Reale. Le sue manovre spregiudicate, sospese tra diplomazia e corruzione, lo rendono una figura ambigua e pericolosa, capace forse di ridisegnare gli equilibri della regione.
+Nel 740, un ex pirata di nome **Reda Akram** ottenne il potere a Scythrae con un colpo di stato contro gli ex nobili imperiali, invisi sia al popolo che alla corona. Reda si autoproclamò "Emir dei vizi e del sangue", ma non è riconosciuto dagli altri governanti, che lo considerano un usurpatore. Si muove agilmente tra politica e affari, mantenendo contatti sia con i nobili di Couronne, sia con i capitani pirati del sud — c’è chi mormora che abbia persino trattato con ufficiali della Marina Reale. Le sue manovre spregiudicate, sospese tra diplomazia e corruzione, lo rendono una figura ambigua e pericolosa, capace forse di ridisegnare gli equilibri della regione.

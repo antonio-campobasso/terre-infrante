@@ -36,8 +36,9 @@ views:
       - Attributo Divino
       - Domini alternativi
       - Domini
-  - type: table
+  - type: cards
     name: Gli Ascesi
     filters:
       and:
         - Pantheon == "Ascesi"
+    image: note.Immagine

@@ -14,7 +14,7 @@ Immagine: "[[Cervo Fiorito.png]]"
 
 
 - **Pianeta Guida:** Selene guida la loro sensibilità notturna
-- **Pianeta Avverso: **Saturnia è il ghiaccio che rischia di congelare la loro delicatezza.
+- **Pianeta Avverso: Saturnia è il ghiaccio che rischia di congelare la loro delicatezza.
 
 # Relazioni
 

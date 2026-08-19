@@ -1,5 +1,4 @@
 [[Introduzione]]
-
 # Ambientazione
 - [[Bestiario]]
 - [[Civiltà]]

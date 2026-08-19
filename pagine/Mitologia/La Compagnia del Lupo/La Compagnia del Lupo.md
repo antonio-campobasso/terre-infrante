@@ -3,13 +3,11 @@
 Nata dal fango della strada e consacrata nel fuoco della leggenda, la **Compagnia del Lupo** rappresenta l’improbabile trionfo della volontà sul destino. Ciò che era iniziato come un sodalizio forzato tra reietti — un nobile nano in fuga dalle sue responsabilità, un elfo druido intollerante, un’emarginata segnata dal sangue draconico, un mago arrogante, un chierico accecato dalla vendetta e un lupo bizzarramente distratto — si è evoluto in un legame più profondo di qualunque consanguineità. Attraverso il superamento di pregiudizi interni e corruzioni esterne, il gruppo ha trasformato le proprie cicatrici in simboli di potere: laddove il mondo vedeva un fallimento, loro hanno trovato una famiglia.
 
 ### La Scintilla e il Sacrificio di Pep
-
 Inizialmente, la missione di affrontare **Astaroth**, il Dio delle Anime, fu accolta dal gruppo con estrema riluttanza e scetticismo; l'idea di sfidare una divinità pareva loro un suicidio senza senso. Tutto cambiò quando recuperarono la **Scintilla**, un artefatto leggendario che si diceva fosse un frammento del corpo di **Heilor**, l'antico Dio del Sole, ucciso proprio da Astaroth. Questo frammento infondeva il potere divino nei mortali, rendendo l'impossibile una realtà tangibile.
 
 Tuttavia, fu un incontro inaspettato a forgiare i loro cuori: **Pep**, uno sciamano goblin dai modi stravaganti, vide in loro ciò che loro stessi negavano. Pep li ispirò con una profezia sussurrata tra i fumi delle erbe rituali, ricordando a quegli eroi riluttanti che "anche la più piccola luce può bruciare l'ombra più vasta". Quando Pep sacrificò la sua vita per proteggere la Scintilla durante un'imboscata, la sua morte divenne il catalizzatore del cambiamento: in quel momento, la compagnia del Lupo smise di essere un gruppo di mercenari vagabondi e tutti accettarono il proprio destino di campioni del mondo.
 
 ### Epilogo: Il Mito tra le Terre Infrante
-
 Oggi, otto secoli dopo quella battaglia titanica, la Compagnia del Lupo è diventata nient'altro che questo: **Leggenda**. I loro nomi — Rodrek, Anacleto (e Ralph), Asha, Robert e Stjoc — sono ancora pronunciati con reverenza nelle preghiere e incisi con cura millimetrica in antichi tomi e monumenti che resistono al tempo. Della loro presenza fisica non resta più nulla, ma gli effetti del loro scontro con Astaroth sono la realtà quotidiana di ogni creatura vivente.
 
 Il mondo non è più il continente saldo di un tempo; è un mosaico di **Terre Infrante**, continenti divisi e frammentati dalla violenza di un conflitto che lacerò la crosta terrestre. Ogni crepa nel suolo, ogni isola fluttuante e ogni mare inghiottito dall'abisso è un monito silenzioso del potere che quegli eroi sprigionarono. La Compagnia è svanita nel mito, ma finché un bambino leggerà le loro gesta o un marinaio navigherà tra i frammenti del mondo, il loro spirito continuerà a vegliare su ciò che hanno salvato.
@@ -17,13 +15,11 @@ Il mondo non è più il continente saldo di un tempo; è un mosaico di **Terre I
 ## 🛡️ Rodrek Steelborn: Il Lord di Ferro e Fango
 
 ### **Descrizione Fisica: Una Fortezza in Movimento**
-
 Rodrek è l'immagine stessa della resilienza nanica. Non è il tipico nobile da salotto: la sua pelle è segnata da cicatrici di guerra e polvere da sparo, e la sua **barba rossa**, folta e indomita, scende sul petto come una cascata di brace, spesso intrecciata con anelli di ferro grezzo.
 
 L'elemento più iconico è la sua **armatura**: un tempo era un set cerimoniale completo della casata Steelborn, ma anni di vita da mercenario l'hanno ridotta a un ammasso di pezzi sconnessi. Spallacci d'acciaio ammaccati sono legati con cinghie di cuoio consumato sopra una tunica di maglia di ferro. Impugna una **grande ascia bipenne** la cui lama è talmente pesante che un uomo comune farebbe fatica a sollevarla, ma che nelle sue mani ruota con una velocità spaventosa e letale.
 
 ### **Personalità: Onore sotto la Crosta**
-
 Rodrek è un uomo di poche parole e molti fatti, spesso accompagnati da un rutto o una imprecazione. È **rozzo, testardo e brutale** nel modo di parlare, poiché disprezza profondamente le sottigliezze e le bugie della politica nobiliare che ha respirato da piccolo.
 
 Tuttavia, la sua "ruvidità" è un guscio: la sua **lealtà** è un legame sacro. Se Rodrek ti chiama "compagno", significa che morirebbe per te senza pensarci due volte. È un leader naturale che non ha bisogno di dare ordini; gli basta caricare per primo gridando il nome del suo clan per spingere chiunque a seguirlo nel cuore della battaglia.

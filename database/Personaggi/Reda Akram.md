@@ -1,6 +1,9 @@
 ---
 base: "[[database/Personaggi/Personaggi.base]]"
 gregorian-date: 1999-04-09
+Fazione:
+  - Repubblica degli Emir
+Ruolo: Emir dei Vizi e del Sangue
 ---
 #TODO wippone
 ```dataviewjs

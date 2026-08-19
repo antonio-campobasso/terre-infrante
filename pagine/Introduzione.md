@@ -1,10 +1,10 @@
 Le [[Terre Infrante]] sono un mondo vasto e mutevole, plasmato dal tempo, dalla magia e dall’ambizione di chi lo abita. Ogni terra racconta una storia di potere e sopravvivenza, dove antichi imperi sono caduti e nuove forze emergono dalle loro ceneri. Dalle **vette gelide di Jörinveit** ai **deserti di Niruta**, dalle **città fiorenti di Andorin** ai **misteri sommersi di Suryana**, ogni angolo nasconde segreti e pericoli.
 
-Le nazioni si contendono il dominio sulle risorse, mentre popoli e culture si intrecciano in alleanze precarie o in guerre spietate. I mari di **Liria** è solcato da flotte mercantili e navi pirata, mentre le giungle di **Goramar** celano templi dimenticati e civiltà ancestrali. Il sapere arcano fiorisce in luoghi come **Kasmona**, mentre i cieli sopra **Rylorwyn** echeggiano ancora del clangore di guerre passate.
+Le nazioni si contendono il dominio sulle risorse, mentre popoli e culture si intrecciano in alleanze precarie o in guerre spietate. I mari di **Liria** soni solcati da flotte mercantili e navi pirata, mentre le giungle di **Goramar** celano templi dimenticati e civiltà ancestrali. Il sapere arcano fiorisce in luoghi come **Kasmona**, mentre i cieli sopra **Rylorwyn** echeggiano ancora del clangore di guerre passate.
 
 Ma in queste terre segnate da antichi cataclismi e incessanti conflitti, il cambiamento è l’unica costante. Regni sorgono e cadono, vecchie tradizioni si scontrano con nuove ideologie e nelle ombre delle rovine qualcosa di più grande si muove, attendendo il momento giusto per rivelarsi.
 
-Chiunque solchi le **Terre Infrante** è parte di una storia ancora in divenire, una leggenda fatta di eroi, tiranni, segreti e promesse infrante.
+Chiunque solchi le **Terre Infrante** è parte di una storia ancora in divenire, una leggenda fatta di eroi, tiranni, segreti e speranze.
 
 ---
 
@@ -21,7 +21,6 @@ Chiunque solchi le **Terre Infrante** è parte di una storia ancora in divenire,
 [[Rylorwyn]] è una regione montuosa, ricca di **rovine** e **antichi luoghi sacri.** Le terre di Rylorwyn sono segnate da cicatrici, sia fisiche che spirituali, e ancora fatica a riprendersi dalla guerra. Tra i suoi **passaggi nascosti** e **roccaforti dimenticate**, la regione rimane fragile e contesa, in attesa di chi saprà reclamare la sua eredità.
 
 ### 🏔️ Jörinveit
-
 [[Jörinveit]] è una regione gelida e ostile, dove le **tribù** e le piccole **città** lottano per la sopravvivenza in un ambiente segnato dal freddo e dalla costante minaccia di **predoni** e **creature antiche** che abitano le montagne. La **magia**, temuta e considerata pericolosa, è un crimine che viene punito con l'**esilio** senza pietà.
 
 ## ⛩️ Wu-Xian

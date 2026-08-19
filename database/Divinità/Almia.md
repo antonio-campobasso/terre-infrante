@@ -17,6 +17,7 @@ Domini:
   - Healing
   - Repose
   - Star
+Immagine: "[[Almia.png]]"
 ---
 ![[Almia.png]]
 
@@ -40,12 +41,10 @@ Il dogma di Almia si basa sulla **Compassione** e sulla **Speranza**. Ella inseg
 - **Seguaci:** Guaritori, psicologi (o chi ne fa le veci), poeti, amanti e persone che soffrono di insonnia o traumi.
 - **Riti e Manifestazioni:** I riti si svolgono al crepuscolo o all'alba. Un rito comune è il "Cerchio del Racconto", dove i fedeli condividono i propri sogni per trovarvi significati comuni. L'intercessione di Almia si manifesta come un sonno senza incubi, la capacità di calmare una folla furibonda con poche parole o visioni profetiche soffuse di speranza. I suoi emissari sono fate gentili, unicorni o spiriti dell'aria che portano profumi di fiori notturni.
 
-<!-- Column 1 -->
 ## Editti
 
 Portare conforto ai sofferenti, proteggere il sonno degli innocenti, cercare la bellezza nei luoghi oscuri, incoraggiare la creatività e l'immaginazione.
 
-<!-- Column 2 -->
 ## Anatemi
 
 Indurre incubi deliberatamente, svegliare bruscamente qualcuno che ha bisogno di riposo, deridere i sogni altrui, usare la magia per manipolare i sentimenti in modo egoistico.

@@ -28,3 +28,8 @@ views:
     order:
       - file.name
       - Regione
+  - type: table
+    name: Fjellanag
+    filters:
+      and:
+        - Regione.contains("Fjellanag")
