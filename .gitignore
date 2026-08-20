@@ -2,3 +2,9 @@ workspace.json
 .obsidian/workspace.json
 **/.DS_Store
 .DS_Store
+# quartz
+node_modules
+public
+.quartz
+.quartz-cache
+tsconfig.tsbuildinfo
