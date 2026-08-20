@@ -8,7 +8,7 @@ Regione:
 #TODO immagine
 
 # Descrizione
-Repubblica collettivista degli artigiani di Tripeaks, nata dalla liberazione dall'occupazione imperiale nel 726 NE. Gestisce i cantieri navali più avanzati del mondo e non riconosce sovrani: il potere è distribuito tra i mastri d'ascia delle gilde.
+Repubblica collettivista degli artigiani di Tripeaks, nata dalla liberazione dall'occupazione imperiale nel 726. Gestisce i cantieri navali più avanzati del mondo e non riconosce sovrani: il potere è distribuito tra i mastri d'ascia delle gilde.
 
 ## Competenze
 Lavorazione del Legnoferro Boreale, costruzione navale, incisione runica — il Sindacato è l'unico fornitore al mondo di scafi capaci di resistere ai ghiacci del nord.
@@ -36,3 +36,4 @@ Nessun sovrano: il potere è distribuito tra i mastri d'ascia di ogni gilda, riu
 
 # Storia
 Nato nel 726 NE, dopo che i nani di Tripeaks — sottoposti a ritmi massacranti dall'occupazione imperiale e traditi dalla Casata Duskborne — organizzarono nel 723 uno sciopero monumentale e infine cacciarono i Vartensi con l'aiuto della flotta dell'Alleanza, sfruttando la copertura delle Nebbie di Contrasto. Il vecchio sistema aristocratico nanico crollò, sostituito dalla repubblica collettivista che oggi domina il commercio navale globale.
+#TODO approfondire un po
