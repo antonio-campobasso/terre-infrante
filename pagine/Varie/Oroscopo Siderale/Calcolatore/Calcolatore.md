@@ -1,0 +1,4 @@
+---
+title: Calcolatore
+---
+![[Calcolatore.base]]

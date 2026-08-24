@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// upstream collapses the explorer by pinning it to `flex: 0 1 1.2rem` and
+// clipping the overflow, but the theme's h2 makes the header ~2.5rem tall, so
+// the "Explorer" label gets cut off. Size to the header instead and hide the
+// tree outright.
+.explorer.collapsed {
+  flex: 0 0 auto;
+
+  & .explorer-content {
+    display: none;
+  }
+}

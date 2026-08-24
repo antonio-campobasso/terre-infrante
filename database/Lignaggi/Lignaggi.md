@@ -1,0 +1,4 @@
+---
+title: Lignaggi
+---
+![[Lignaggi.base]]

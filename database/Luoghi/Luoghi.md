@@ -1,0 +1,4 @@
+---
+title: Luoghi
+---
+![[Luoghi.base]]

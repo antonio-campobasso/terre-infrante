@@ -1,0 +1,4 @@
+---
+title: Fazioni
+---
+![[Fazioni.base]]

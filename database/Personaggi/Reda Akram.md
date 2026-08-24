@@ -1,5 +1,5 @@
 ---
-base: "[[database/Personaggi/Personaggi.base]]"
+base: "[[Personaggi.base]]"
 gregorian-date: 1999-04-09
 Fazione:
   - Repubblica degli Emir

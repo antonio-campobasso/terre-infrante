@@ -45,7 +45,7 @@ views:
     name: Eloran
     filters:
       and:
-        - continente.contains("Eloran")
+        - Continente.contains("Eloran")
     order:
       - file.name
       - famiglia

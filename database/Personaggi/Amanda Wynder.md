@@ -1,5 +1,5 @@
 ---
-base: "[[database/Personaggi/Personaggi.base]]"
+base: "[[Personaggi.base]]"
 Fazione:
   - Marina Reale
 Ruolo: Ammiraglio

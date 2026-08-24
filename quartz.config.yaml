@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics: null
-  locale: it-IT
+  locale: en-US
   baseUrl: antonio-campobasso.github.io/terre-infrante
   ignorePatterns:
     - private
@@ -78,6 +78,11 @@ plugins:
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
+    options:
+      maxDepth: 3
+      minEntries: 1
+      showByDefault: true
+      collapseByDefault: false
     order: 50
     layout:
       position: right
@@ -164,6 +169,11 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        showTags: false
+      globalGraph:
+        showTags: false
     layout:
       position: right
       priority: 10
@@ -176,7 +186,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -191,7 +201,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -291,12 +301,8 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
-        right: []
     tag:
       exclude:
         - reader-mode
-      positions:
-        right: []
     canvas: {}
     bases: {}

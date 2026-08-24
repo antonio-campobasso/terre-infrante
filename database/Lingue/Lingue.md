@@ -1,0 +1,4 @@
+---
+title: Lingue
+---
+![[Lingue.base]]
