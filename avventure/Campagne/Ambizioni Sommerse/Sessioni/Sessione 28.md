@@ -11,7 +11,7 @@ status: prepped
 atto: Le Voci del Profondo
 livello: 7
 ---
-data inizio: 3 aster
+data inizio: 5 aster
 # Sessione 28: Alleati alla Prova
 
 ## Recap
