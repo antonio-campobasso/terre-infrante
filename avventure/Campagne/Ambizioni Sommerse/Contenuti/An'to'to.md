@@ -10,6 +10,8 @@ Caratteristiche:
 ---
 ![[An'to'to.png]]
 
+![[an'to'to invecchiato.jpeg]]
+
 ![[Antostrello.png]]
 
 ![[Antostrello-Incubo.png]]

@@ -7,11 +7,11 @@ tags:
   - ambizioni-sommerse
 type: session
 session_number: 29
-status: prepped
+status: played
 atto: Le Voci del Profondo
 livello: 8
 ---
-data inizio: 9 aster
+		data inizio: 9 aster
 # Sessione 29: Alto Tradimento
 
 ## Recap
@@ -103,4 +103,25 @@ Rotta verso **Myrinos**, per fermare Amanda e il culto. Possono raggiungerli gra
 
 ## Note Post-Sessione
 
-*(da compilare dopo)*
+**Recap:** [[29. Alto Tradimento]]
+
+### Cosa è successo
+- **Prima di Scythrae:** festa a bordo per la chiave. Ciurma mista pirati/Marina molto affiatata. [[Sparky]] si è ammorbidito con [[Esteban Piumabianca|Esteban]]; Esteban rivela che a fine storia vuole **tornare in Marina** per evitare altri casi come Amanda. Sparky ci resta male, ma capisce.
+- **Scena 1 giocata:** tradimento di [[Reda Akram|Reda]], scontro, gruppo **sconfitto duramente**. Durante lo scontro Reda sottrae la chiave a Esteban e i giocatori notano che **fa qualcosa di nascosto, anche ad Amanda** → lo scambio con [[Hono]] è avvenuto, ma il gruppo non sa cosa ha visto.
+- **Patto di Esteban:** accetta l'**impiccagione** (non decapitazione) in cambio della vita della ciurma, che sconterà qualche mese di prigione.
+- **Viaggio a Thaurenai in catene:** le catene bloccano ogni magia; [[An'to'to]] **invecchia rapidamente**, come se perdesse le forze vitali. Esteban, con lo spirito spezzato, tace; chiede solo al gruppo di continuare a combattere.
+- **Thaurenai:** ciurma in gabbie attorno a una piazza a teatro, Esteban sul patibolo col sacco in testa. Tra la folla: **Mya, Grok e Pierre Dubois** della [[La Viennetta di Anton|Viennetta]], vivi.
+- **Cliffhanger:** *"I Liberadores ci stanno attaccando!"*
+
+### Differenze rispetto al prep
+- Sessione chiusa **all'inizio della Scena 2**: il salvataggio, il confronto con [[Eliza Ronchelot|Eliza]] (Scena 3) e la rotta per Myrinos (Scena 4) slittano alla prossima.
+- Esecuzione: **impiccagione**, non decapitazione.
+- Novità: l'**invecchiamento di An'to'to** sotto le catene anti-magia. Da chiarire cosa lo causa e se si ferma togliendo le catene.
+- Il grido "**I Liberadores ci stanno attaccando!**": è la Viennetta che si spaccia per Liberadores? Da decidere come entra in scena.
+
+### Da preparare per la Sessione 30
+- [ ] Riprendere da Scena 2: evasione nel caos (musica, bombe, gabbie da aprire, Esteban sul patibolo).
+- [ ] Scena 3: Eliza vs Idryt, chiusura arco.
+- [ ] Scena 4: reunion con [[Drelgo]] e rotta per Myrinos.
+- [ ] Effetti dell'invecchiamento di An'to'to e come recuperare.
+- [ ] Morale di Esteban: il suo spirito spezzato va ricostruito.
