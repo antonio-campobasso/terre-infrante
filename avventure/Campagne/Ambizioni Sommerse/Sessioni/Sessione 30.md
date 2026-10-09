@@ -7,7 +7,7 @@ tags:
   - ambizioni-sommerse
 type: session
 session_number: 30
-status: prepped
+status: played
 atto: Le Voci del Profondo
 livello: 8
 ---
@@ -235,4 +235,25 @@ Si salpa: la *[[Zefiro]]* e la *Viennetta* insieme.
 
 ## Note Post-Sessione
 
-*(da compilare dopo)*
+**Recap:** [[30. Chi non muore si rivede]]
+
+### Cosa è successo
+- **Evasione:** caos della Viennetta, gruppo fuori dalle gabbie, ciurma della [[Zefiro]] liberata, ricongiungimento con la [[La Viennetta di Anton|Viennetta]].
+- **Imprevisto al patibolo:** [[An'to'to]] **tira la leva** per impiccare [[Esteban Piumabianca|Esteban]]. [[Sparky]] spezza la corda con un colpo. [[Thon]] corre ad aiutarlo; Esteban capisce e **ritrova l'Ira** dopo mesi. An'to'to fugge **invisibile**.
+- **Isola nascosta:** la Viennetta è sopravvissuta grazie all'esplosione di [[Drelgo]]; ha lavorato per [[Hatima Habibi]] (riparazioni + denunciare Amanda). **[[Reda Akram|Reda]]** li ha avvisati della cattura e chiede di **radunare i pirati sotto il "re" Esteban** in un punto dell'[[Arcipelago di Maco]]; ha fornito equipaggiamento per gruppo e flotta. Esteban decide di **stare al gioco** di Reda.
+- **An'to'to ed Eliza (infermeria di Thaurenai):** travestito da marinaio con pozione di cambio sesso. [[Eliza Ronchelot|Eliza]] lo riconosce. Rivela: ha dato ad Amanda il potere per l'operazione, ha fatto arrestare [[Pietro Ronchelot|Pietro]], gli ha rubato gli artefatti, si è offerta come **nuova ospite dell'Antostrello**. L'Antostrello comunicava con lei tramite le lettere.
+- **L'Antostrello passa a Eliza:** An'to'to **sta morendo**, irreversibilmente. Ricordi tornati: villaggio di **Veldrhan**, parlava con gli spiriti; costretto dal culto e da Amanda a unirsi a loro; ha aiutato a intrappolare [[Morpheus]] e controllare [[Ka'ula Makrao]] usando **Ouroboros**, incubo sfuggito a Morpheus. Feriti nel rituale e traditi dal culto, i due si sono **fusi**. Ouroboros (= Antostrello) lo ha manipolato da allora; ora vuole fare lo stesso con Eliza, anche sacrificandola.
+
+### Differenze rispetto al prep
+- Niente inseguimento strutturato al patibolo come previsto: il nodo è il **tradimento di An'to'to**. Esteban ritrova l'Ira, ma non per il salvataggio del gruppo: per il tentato omicidio.
+- **Scena 3 ribaltata:** nessun confronto Eliza/Idryt sui moli. Eliza **non** si volta: è alleata di Amanda e ora ospite dell'Antostrello. Niente ordine di cattura per Amanda.
+- **Scena 4 cambiata:** rotta verso il **raduno pirata nell'Arcipelago di Maco**, non Myrinos. Reda si scopre apertamente (non con lettera anonima).
+- Spiegazione dell'invecchiamento di An'to'to confermata: il legame con l'Antostrello teneva in vita il corpo.
+
+### Da preparare per la Sessione 31
+- [ ] An'to'to morente a Thaurenai: quanto tempo ha? Fuga, recupero o finale del personaggio?
+- [ ] Eliza + Ouroboros: nuovi poteri, obiettivi (artefatti di Morpheus), rapporto con Amanda e culto.
+- [ ] Reazione del gruppo al tradimento di An'to'to: lo cercheranno?
+- [ ] Raduno dei pirati nell'Arcipelago di Maco: chi arriva, Esteban come "re".
+- [ ] Reda: quanto rivela del piano (vera chiave con [[Hono]]).
+- [ ] Pietro Ronchelot in prigione: possibile alleato.
